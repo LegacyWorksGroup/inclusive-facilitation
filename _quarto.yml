@@ -28,7 +28,12 @@ website:
         href: index.qmd
       - section: "Course Contents"
         contents: 
-          - text: "TBD"
+          - text: "Tools & Practices"
+            href: content/practices.qmd
+          - text: "Access, Inclusion & Belonging"
+            href: content/belonging.qmd
+          - text: "Supporting Group Decision Making"
+            href: content/decision-making.qmd
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group"
     background: secondary
