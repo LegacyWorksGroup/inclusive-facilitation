@@ -1,0 +1,44 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+execute: 
+  freeze: auto
+
+website:
+  favicon: content/images/logo_lwg-circle.png
+  title: "LegacyWorks Group: Inclusive & Effective Group Facilitation Series"
+  repo-url: https://github.com/LegacyWorksGroup/inclusive-facilitation
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    right: 
+      - text: "LegacyWorks Home"
+        href: https://legacyworksgroup.com/
+      - icon: github
+        href: https://github.com/LegacyWorksGroup/inclusive-facilitation
+  sidebar:
+    collapse-level: 2
+    style: docked
+    contents:
+      - text: "Course Home"
+        href: index.qmd
+      - section: "Course Contents"
+        contents: 
+          - text: "TBD"
+  page-footer: 
+    center: "&copy; 2026, LegacyWorks Group"
+    background: secondary
+
+format:
+  html:
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: false
+    theme:
+      light: themes/lwg-light.scss
+      dark: themes/lwg-dark.scss
+    mainfont: Open Sans
