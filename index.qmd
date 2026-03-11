@@ -28,9 +28,9 @@ Other specific course priorities include:
 
 | **Date** | **Module** | **Primary Instructors** |
 |:---:|:-----------------|:---------|
-| TBD | 1. Facilitation Tools & Practices | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
-| TBD | 2. Facilitating Access, Inclusion, and Belonging | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
-| TBD | 3. Supporting Clear and Effective Group Decision Making | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
+| May. 7, 2026 | 1. Facilitation Tools & Practices | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
+| June 4, 2026 | 2. Facilitating Access, Inclusion, and Belonging | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
+| July 9, 2026 | 3. Supporting Clear and Effective Group Decision Making | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
 
 :::
 
