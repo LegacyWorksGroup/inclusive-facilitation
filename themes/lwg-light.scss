@@ -7,6 +7,12 @@ $lwg-blue-2: #34a0a4;
 $lwg-green-1: #99d98c;
 $lwg-green-2: #d9ed92;
 
+/* core competency colors */
+$cc-1: #0096c7;
+$cc-2: #ff9500;
+$cc-3: #55a630;
+$cc-4: #7b2cbf;
+
 /* generally useful other colors */
 $url-blue: #4361ee;
 $cream: #F4F3EE;
@@ -40,6 +46,12 @@ $code-block-bg: $gray-2; // code block background color
 
 // Underline URLs
 .reveal .slide a { text-decoration: underline; }
+
+// Quick refs for core palette
+.cc-value { color: $cc-1; }
+.cc-skill { color: $cc-2; }
+.cc-steward { color: $cc-3; }
+.cc-result { color: $cc-4; }
 
 // Improve background contrast for code chunk ouput
 pre code:not(.sourceCode) { background-color: $gray-2; }
