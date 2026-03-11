@@ -4,9 +4,19 @@ title: "Series Overview"
 
 {{< fa person-digging >}} Under construction; check back later
 
-Other specific course priorities include:
+:::{.callout-tip icon="false" collapse="false"}
+## {{< fa brain >}} Learning Objectives
 
-- TBD
+After completing this series, participants will be able to:
+
+- **Describe** benefits of facilitating full, thoughtful, engaged participation in group settings
+- **Design** effective, inclusive gatherings to tap the inherent potential of diverse groups and reach shared goals
+- **Analyze** group interactions and identify ways to unlock stuck dynamics and foster greater participation and collaboration
+- **Apply** methods to ensure equitable access to participation and foster trust and belonging in virtual and in person facilitated sessions
+- **Apply** active listening and synthesis skills to support group discernment
+- **Employ** tools and practices to support divergent, emergent, and convergent thinking for effective participatory decision making
+
+:::
 
 ### Citing These Materials
 
@@ -26,9 +36,9 @@ Other specific course priorities include:
 :::{.panel-tabset}
 ### 2026-27 Schedule
 
-| **Date** | **Module** | **Primary Instructors** |
-|:---:|:-----------------|:---------|
-| May. 7, 2026 | 1. Facilitation Tools & Practices | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
+| **Date** | **Series** | **Primary Instructor** |
+|:-----:|:-----------------|:---------|
+| May 7, 2026 | 1. Facilitation Tools & Practices | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
 | June 4, 2026 | 2. Facilitating Access, Inclusion, and Belonging | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
 | July 9, 2026 | 3. Supporting Clear and Effective Group Decision Making | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
 
