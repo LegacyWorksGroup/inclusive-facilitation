@@ -10,12 +10,12 @@ This session will offer best practices for in person and virtual meeting design.
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 
 - [{{< fa heart >}} Work with adaptability]{.cc-value}
+- [{{< fa heart >}} Deliver high quality results]{.cc-value}
 - [{{< fa hand-holding-heart >}} Move at the speed of trust]{.cc-steward}
 - [{{< fa hand-holding-heart >}} Active listening]{.cc-steward}
 - [{{< fa hand-holding-heart >}} Embrace complexity]{.cc-steward}
 - [{{< fa hand-holding-heart >}} Build capacity in others]{.cc-steward}
 - [{{< fa hand-holding-heart >}} Work to transform power]{.cc-steward}
-- [{{< fa heart >}} Deliver high quality results]{.cc-value}
 
 :::
 
