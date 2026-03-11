@@ -34,7 +34,7 @@ website:
           - text: "Supporting Group Decision Making"
             href: content/decision-making.qmd
   page-footer: 
-    center: "&copy; 2026, LegacyWorks Group"
+    center: "&copy; 2026, LegacyWorks Group (Loop: [{{< fa arrows-spin >}}](https://sites.google.com/legacyworksgroup.com/legacy-loop/legacyloop))"
     background: secondary
 
 format:
