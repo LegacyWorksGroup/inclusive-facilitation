@@ -24,9 +24,8 @@ website:
     collapse-level: 2
     style: docked
     contents:
-      - text: "Course Home"
-        href: index.qmd
-      - section: "Course Contents"
+      - href: index.qmd
+      - section: "Series Contents"
         contents: 
           - text: "Tools & Practices"
             href: content/practices.qmd

@@ -1,5 +1,5 @@
 ---
-title: "Course Home"
+title: "Series Overview"
 ---
 
 {{< fa person-digging >}} Under construction; check back later
