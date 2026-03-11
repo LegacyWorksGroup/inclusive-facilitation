@@ -2,6 +2,38 @@
 title: "Course Home"
 ---
 
-## {{< fa person-digging >}} Under Construction
+{{< fa person-digging >}} Under construction; check back later
 
-Check back later!
+Other specific course priorities include:
+
+- TBD
+
+### Citing These Materials
+
+{{< fa person-digging >}} Under construction; check back later
+
+## Course Structure
+
+:::{.panel-tabset}
+### 2026-27 Structure
+
+{{< fa person-digging >}} Under construction; check back later
+
+:::
+
+## Course Scheduling
+
+:::{.panel-tabset}
+### 2026-27 Schedule
+
+| **Date** | **Module** | **Primary Instructors** |
+|:---:|:-----------------|:---------|
+| TBD | 1. Facilitation Tools & Practices | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
+| TBD | 2. Facilitating Access, Inclusion, and Belonging | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
+| TBD | 3. Supporting Clear and Effective Group Decision Making | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
+
+:::
+
+## Course Policies
+
+{{< fa person-digging >}} Under construction; check back later
