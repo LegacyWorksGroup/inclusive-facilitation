@@ -2,9 +2,32 @@
 title: "Supporting Clear and Effective Group Decision Making"
 ---
 
-As many course participants will have discovered by now, the process of deciding on, refining, and choosing a path forward for data analysis will involve many differing opinions and perspectives. To work effectively as a group, you will need to elicit a broad range of ideas and then combine and focus them. This can be unfamiliar territory for researchers who have mainly pursued individual projects. While the particulars of each project are different, the patterns are often similar and being familiar with a few approaches for eliciting the best from yourself and colleagues can speed the process and improve the experience for all involved.
+This session is designed to help participants support the kind of thinking their groups need to move forward to an effective decision. We will introduce the diamond model of participatory decision making as a framework for group process design. We will learn to recognize the stages of participatory decision making and the type of thinking (divergent, emergent, or convergent) required for each stage. Participants will learn to recognize potential obstacles in each stage and practice tools and techniques to support innovative thinking, integration, and convergence / decision making. We’ll discuss the importance of clarity about how a decision will be made and by whom and explore how to select the appropriate decision making model for a given context.
 
-Below you will find support for your group as you move through both exciting, and sometimes uncomfortable, stages of collaborative, participatory decision-making--from divergent to emergent and finally convergent thinking.
+:::{.callout-tip icon="false" collapse="false"}
+## Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} Practice entrepreneurialism]{.cc-value}
+- [{{< fa heart >}} ork with adaptability]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} Distributed leadership]{.cc-skill}
+- [{{< fa wand-magic-sparkles >}} Systems thinking & synthesis]{.cc-skill}
+- [{{< fa hand-holding-heart >}} Move at the speed of trust]{.cc-steward}
+- [{{< fa hand-holding-heart >}} Active listening]{.cc-steward}
+- [{{< fa hand-holding-heart >}} Embrace complexity]{.cc-steward}
+- [{{< fa hand-holding-heart >}} Build capacity in others]{.cc-steward}
+- [{{< fa hand-holding-heart >}} Work to transform power]{.cc-steward}
+- [{{< fa square-poll-vertical >}} Achieve progress towards goals, mission and vision]{.cc-result}
+- [{{< fa square-poll-vertical >}} Deliver high quality results]{.cc-result}
+- [{{< fa square-poll-vertical >}} Drive cycles of continuous improvement and evolution]{.cc-result}
+
+:::
+
+
+
+---
+# From SSECR ('24)
 
 :::{.callout-tip icon="false" collapse="false"}
 ## {{< fa brain >}} Learning Objectives
