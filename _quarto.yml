@@ -27,11 +27,11 @@ website:
       - href: index.qmd
       - section: "Series Contents"
         contents: 
-          - text: "Tools & Practices"
-            href: content/practices.qmd
+          - text: "Effective Meetings"
+            href: content/meetings.qmd
           - text: "Access, Inclusion & Belonging"
             href: content/belonging.qmd
-          - text: "Supporting Group Decision Making"
+          - text: "Group Decision Making"
             href: content/decision-making.qmd
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group (Loop: [{{< fa arrows-spin >}}](https://sites.google.com/legacyworksgroup.com/legacy-loop/legacyloop))"
