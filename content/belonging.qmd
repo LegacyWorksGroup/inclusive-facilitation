@@ -1,5 +1,5 @@
 ---
-title: "Principles & Practices to Support Access, Inclusion and Belonging"
+title: "Facilitating Access, Inclusion, and Belonging"
 ---
 
 ## {{< fa person-digging >}} Under Construction
