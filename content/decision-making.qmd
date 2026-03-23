@@ -10,7 +10,7 @@ This session is designed to help participants support the kind of thinking their
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 
 - [{{< fa heart >}} Practice entrepreneurialism]{.cc-value}
-- [{{< fa heart >}} ork with adaptability]{.cc-value}
+- [{{< fa heart >}} Work with adaptability]{.cc-value}
 - [{{< fa wand-magic-sparkles >}} Distributed leadership]{.cc-skill}
 - [{{< fa wand-magic-sparkles >}} Systems thinking & synthesis]{.cc-skill}
 - [{{< fa hand-holding-heart >}} Move at the speed of trust]{.cc-steward}
