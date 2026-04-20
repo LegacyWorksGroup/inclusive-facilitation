@@ -39,8 +39,8 @@ After completing this module you will be able to:
 On your own:
 
 - Reflect silently on the following questions and provide input via the anonymous poll
-    - What's one thing your group is doing really well to ensure all team members can participate in meetings and project work?
-    - What's one area where your team has room to improve its inclusive facilitation practices? What could you be doing better?
+    - What's one thing you and your team or collaborative group are doing really well to ensure effective meetings?
+    - What's one area where you would like to improve your facilitation or meeting design skills? What do you find challenging?
 
 **Part 2**
 
@@ -51,6 +51,33 @@ In pairs (from different teams):
 
 :::
 
+::: {.callout-warning icon="false"}
+#### Discussion: Rapid Assessment
+
+As a whole class, let's discuss your answers to the following questions:
+
+- Where is our learning edge?
+    - What are some common areas you identified where we have room to improve our inclusive facilitation practices? 
+
+:::
+
+### Tool Highlight: Polls & Think-Pair-Share
+
+**Polls** are useful tools for collecting input. They can be deployed synchronously or asynchronously, anonymously or not. Consider using them before a meeting to understand the group's starting point and help shape the content. Use them during a meeting to collect real time data. Or use them after a meeting to gather feedback. Zoom's integrated polling is simple but effective. Other options include slido, mentimeter, and google forms.
+
+**Think-Pair-Share** is a common teaching tool that is very effective for engaging groups in reflection and discussion. Starting with individual reflection suits those who like to process ideas in quiet. Discussing in pairs allows everyone to share their ideas and learn from each other before highlights are lifted up to the whole group. "[1-2-4-all](https://www.liberatingstructures.com/1-1-2-4-all/)" (sometimes also called "think-pair-square-share") is a related microstructure that can be used to rapidly share and sift ideas in any group of eight or more people. In a virtual setting, to simplify breakout room logistics, it's easiest to just have three levels: individual, breakout groups of 2 or more people, and whole group.
+
+## Benefits of Enabling Full Participation
+
+Creating the conditions for all team members to feel welcome and able to fully participate advances diversity, equity, and inclusion in science. As we learned in the [Team Science Practices module](https://lter.github.io/ssecr/mod_team-sci.html) it also has instrumental benefits, as diverse teams have been shown to be more productive and to produce higher impact results than less diverse teams. In part, that productivity can be attributed to the ability of the group to elicit and work with novel ideas and approaches, allowing more innovative analysis and problem solving.
+
+Facilitating equitable participation also helps to unleash the full capacity of a team to get things done. Too often, potential contributors opt out of offering their skills and talents to a collaborative endeavor because they feel undervalued or unclear on how to contribute. It might not feel worth their time to try to assert an idea or opinion when it doesn't feel welcome. A process that creates opportunities for everyone to engage and feel included can help avoid this situation.
+
+Finally, when the time comes for decision making, effective facilitation can ensure that the full range of questions, opinions, and concerns has been surfaced and weighed before the group makes a decision. This is critical. If you move forward with surface-level agreement, but without true alignment, commitment to the decision is likely to erode over time. 
+
+<p align="center">
+<img src="images/agreement-alignment.png" alt="Figure of two right-facing arrows filled with smaller arrows. The small arrows filling the large 'agreement' arrow mostly face right but there is a lot of variation. The small arrows filling the large 'alignment' arrow all face the same way as the larger arrow" width="50%"/>
+</p>
 
 ---
 # From SSECR ('24)
