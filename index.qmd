@@ -27,7 +27,7 @@ Through a blend of theory and hands-on practice, participants will learn to:
 :::{.panel-tabset}
 ### 2026-27 Structure
 
-{{< fa person-digging >}} Under construction; check back later
+This series is made up of three 2.5 hour live sessions, offered monthly, May-July 2026, and three web-based modules, available on this website during and after the course.
 
 :::
 
@@ -46,4 +46,7 @@ Through a blend of theory and hands-on practice, participants will learn to:
 
 ## Course Policies
 
-{{< fa person-digging >}} Under construction; check back later
+### **Attendance**
+We hope you will prioritize attendance of all classes in this series, but if you need to miss, please email the course instructor as early as possible. This will help us to share resources and plan for a smaller in-class community while you are out. Our hope is that you want to be present,  but we totally understand that you have many demands on your time and sometimes life happens!
+
+Please keep in mind that your presence in and contributions to class are important both to your understanding of the material and the creation and maintenance of our community of practice.
