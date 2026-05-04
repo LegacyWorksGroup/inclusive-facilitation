@@ -31,7 +31,7 @@ This series is made up of three 2.5 hour live sessions, offered monthly, May-Jul
 
 :::
 
-## Course Scheduling
+## Course Schedule
 
 :::{.panel-tabset}
 ### 2026-27 Schedule
