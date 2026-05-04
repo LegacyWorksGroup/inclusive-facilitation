@@ -42,5 +42,3 @@ Be creative and empathetic when you design your agenda. Think about your partici
 - Career stage
 - Language
 - Time zone (for geographically distributed teams)
-
-:::
