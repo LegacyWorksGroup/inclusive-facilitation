@@ -76,6 +76,15 @@ Or design a prompt that helps people begin to connect with the content of the me
 
 ## Benefits of Enabling Full Participation
 
+So what is an effective meeting? It's one that achieves your purpose and wastes no one’s time. Reaching that bar will take some intention!
+
+Good meetings promote: 
+- Engagement - they keep people's attention and invite their participation
+- Connection - the more we feel connected, the more we trust the group and the meeting as a space we can contribute
+- Creativity & inclusivity - because we never know where good ideas will come from
+- Productivity - we want results & we want to use people’s time well
+- Future collaborative potential - they make people want to stay engaged and to keep contributing 
+
 Creating the conditions for all members of a group to feel welcome and able to fully participate advances diversity, equity, and inclusion. It also has functional benefits, as diverse teams have been shown to be more productive than less diverse teams. In part, that productivity can be attributed to the ability of the group to elicit and work with novel ideas and approaches, allowing more innovative analysis and problem solving.
 
 Facilitating equitable participation also helps to unleash the full capacity of a team to get things done. Too often, potential contributors opt out of offering their skills and talents to a collaborative endeavor because they feel undervalued or unclear on how to contribute. It might not feel worth their time to try to assert an idea or opinion when it doesn't feel welcome. A process that creates opportunities for everyone to engage and feel included can help avoid this situation.
@@ -88,7 +97,11 @@ Finally, when the time comes for decision making, effective facilitation can ens
 
 ## Designing Meetings for All Thinking Styles
 
-People have different thinking preferences which influence what they expect and enjoy in group processes (see Ned Herrmann's Whole Brain Model below). A well designed meeting provides pathways for participation that satisfy each of these different preferences. Take this [short quiz](https://docs.google.com/document/d/1XZD_7oVnS6JoFVUfhhXb3pMgSleW_1AK4YDsMEvlwgI/copy) to understand your own thinking preferences better. The Microstructures Tool Highlight later in this module offers activities that work well for each of the different thinking styles.
+People have different thinking preferences which influence what they expect and enjoy in group processes (see Ned Herrmann's Whole Brain Model below). A well designed meeting provides pathways for participation that satisfy each of these different preferences. 
+
+Take this [short quiz](https://docs.google.com/document/d/1XZD_7oVnS6JoFVUfhhXb3pMgSleW_1AK4YDsMEvlwgI/copy) to understand your own thinking preferences better. 
+
+The Microstructures Tool Highlight later in this module offers activities that work well for each of the different thinking styles.
 
 <p align="center">
 <img src="images/whole-brain-model.png" alt="Top-down image of a human brain divided into four sections next to a circle divided into the same sections. Top left of both is blue, labeled 'analytical' in the circle. Top right is yellow, labeled 'experimental' in the circle. Bottom right is red and labeled 'relational' in circle. Bottom left is green and is labeled 'practical' in the circle. The circle also labels the lines separating each pair of adjacent quadrants as follows: analytical and experimental is 'intellectual', experimental and relational is 'intuitive', relational and practical is 'instinctive', and practical and analytical is 'rational'." width="80%"/>
