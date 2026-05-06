@@ -70,7 +70,7 @@ As a whole class, let's discuss your answers to the following questions:
 - One word or phrase for how you are showing up today
 - A bright spot from your week
 
-Or design a prompt that helps people start to connect personally with the content of the meeting. Provide time for personal connection at the beginning and throughout your meeting. When designing breakout groups, build in five minutes for people to check in with each other. Many will do it anyway, and building in this time helps build group cohesion and trust.
+Or design a prompt that helps people begin to connect with the content of the meeting through reflecting on a related personal experience. Provide time for personal connection at the beginning and throughout your meeting. When designing breakout groups, build in five minutes for people to check in with each other. Many will do it anyway, and building in this time helps build group cohesion and trust.
 
 **Think-Pair-Share** is a common teaching tool that is very effective for engaging groups in reflection and discussion. Starting with individual reflection suits those who like to process ideas in quiet. Discussing in pairs allows everyone to share their ideas and learn from each other before highlights are lifted up to the whole group. "[1-2-4-all](https://www.liberatingstructures.com/1-1-2-4-all/)" (sometimes also called "think-pair-square-share") is a related microstructure that can be used to rapidly share and sift ideas in any group of eight or more people. In a virtual setting, to simplify breakout room logistics, it's easiest to just have three levels: individual, breakout groups of 2 or more people, and whole group.
 
@@ -126,7 +126,11 @@ Be creative and empathetic when you design your agenda. Think about your partici
 
 ## Process Design
 
-Good meeting design starts with understanding your purpose and objectives, as well as your participants. Once you understand why you need to meet (your overarching goal or purpose) and what you want to accomplish (the specific outcomes you are driving toward), you can turn to how you will accomplish your purpose (i.e. the agenda of activities, timings, and tech) and who will play what roles. You want participants to know their role and how to be at their best. 
+Good meeting design starts with understanding your purpose and desired outcomes, as well as your participants. Do you need to share or gather information? Have a discussion? Reach a decision? Connect? Celebrate? Kickoff or bring to a close?
+
+In The Art of Gathering, Priya Parker encourages us to not skip over the important first step of deciding why we are gathering and committing to a bold, sharp purpose. If we skip this step, she warns, we may let old assumptions dictate the form or our gathering and miss opportunities to create more powerful experiences for ourselves and our participants. Parker reminds us that a category - like weekly staff meeting, book club, board meeting, or networking event is _not_ a purpose. 
+
+Once you understand why you need to meet (your purpose) and what you want to accomplish (the specific outcomes you are driving toward), you can turn to how you will accomplish your purpose (i.e. the format, agenda of activities, timings, and tech) and who will play what roles. All your choices should flow from your particular purpose. 
 
 A good rule of thumb is to allow 2-3x as much time to plan a meeting as its duration. 
 
@@ -154,24 +158,20 @@ In your pair:
 
 :::
 
-## Online Meetings
+# 90% of what makes a gathering successful is put in place beforehand - Randa Slim
 
-Online meetings benefit from all the same considerations as in person meetings, plus a little extra care and planning. Keeping your team engaged is doubly challenging in a virtual setting: our computers are full of distractions (email! notifications! internet rabbit holes!) AND as the facilitator, it's harder to tell whether participants are engaged when all you have to go on is a small video window. Managing people's energy and attention and creating opportunities for real human connection are real challenges. On the flip side, online meetings allow distributed teams to stay connected and can provide a dynamic and rich platform for shared work.
+## Inviting and Priming
 
-In addition to the general tips above, in online settings:
+With your bold purpose in mind, you can turn next to identifying and priming your participants. Ask yourself:
+- Who needs to be in the room?
+- How do we need them to show up?
+- Who not only fits, but also helps fulfill the gathering’s purpose?
+- Who threatens the purpose?
+- Who, despite being irrelevant to the purpose, do you feel obliged to invite?
+- Who is this gathering for first?
 
-1. Be thoughtful and equitable when scheduling across time zones
-2. Develop online meeting norms for your team and enforce them (e.g., use of chat, indicating you want to speak)
-3. Ask a team member to help you monitor the chat and assist participants with tech or connectivity challenges
-4. Encourage personal connection (e.g., with check ins, invitations to have video on)
-4. Check engagement regularly
-5. Provide breaks (bio breaks, silence, invitations to step away from the screen for reflection)
-6. Make video optional 
-7. Take advantage of tech tools (breakout rooms, polls, shared notes, virtual whiteboards, recording, transcription, etc.)
+Again Priya Parker has some useful advice: "Make purpose your bouncer." Use your purpose to filter your invitation list, deciding not just whom to invite, but also whom to exclude. 
 
-### Tool Highlight: Collaborative Whiteboards
-
-**Collaborative whiteboards** are useful tools for capturing ideas from a group during virtual meetings. They range from simple (EasyRetro, Zoom's whiteboard function) to complex (Mural, miro). Benefits include simultaneous input, the ability to organize information into discrete, movable chunks, and the visual (and lasting) nature of the output.
 
 ## Roles
 
@@ -233,6 +233,24 @@ Consider using:
 
 When capturing notes, try to use people's own words; if necessary pause and ask them to distill long or complex points into a headline you can capture. Invite them to offer corrections if the notetaker didn't capture what they meant.
 
+## Online Meetings
+
+Online meetings benefit from all the same considerations as in person meetings, plus a little extra care and planning. Keeping your team engaged is doubly challenging in a virtual setting: our computers are full of distractions (email! notifications! internet rabbit holes!) AND as the facilitator, it's harder to tell whether participants are engaged when all you have to go on is a small video window. Managing people's energy and attention and creating opportunities for real human connection are real challenges. On the flip side, online meetings allow distributed teams to stay connected and can provide a dynamic and rich platform for shared work.
+
+In addition to the general tips above, in online settings:
+
+1. Be thoughtful and equitable when scheduling across time zones
+2. Develop online meeting norms for your team and enforce them (e.g., use of chat, indicating you want to speak)
+3. Ask a team member to help you monitor the chat and assist participants with tech or connectivity challenges
+4. Encourage personal connection (e.g., with check ins, invitations to have video on)
+4. Check engagement regularly
+5. Provide breaks (bio breaks, silence, invitations to step away from the screen for reflection)
+6. Make video optional 
+7. Take advantage of tech tools (breakout rooms, polls, shared notes, virtual whiteboards, recording, transcription, etc.)
+
+### Tool Highlight: Collaborative Whiteboards
+
+**Collaborative whiteboards** are useful tools for capturing ideas from a group during virtual meetings. They range from simple (EasyRetro, Zoom's whiteboard function) to complex (Mural, miro). Benefits include simultaneous input, the ability to organize information into discrete, movable chunks, and the visual (and lasting) nature of the output.
 
 ::: {.callout-warning icon="false"}
 #### Discussion: Team Planning & Wrap Up
@@ -354,12 +372,17 @@ Offer a **bystand**, e.g., "I want to offer a reflection from another team I was
 ### Papers & Documents
 
 - Khuri et al., [Inclusive Practice Glossary for Facilitators](https://collaborativecapacities.com/wp-content/uploads/Inclusive_Practice_Glossary_for_Facilitators-March2024.pdf). **2024**.
+- brown, a.m. Holding Change: The Way of Emergent Strategy Facilitation and Mediation. AK Press. **2021**.
+- Stein Greenberg, S. Creative Acts for Curious People: How to Think, Create, and Lead in Unconventional Ways. a Stanford d.school book. Ten Speed Press. **2021**.
 - Woodley, L. _et al._, [A guide to using virtual events to facilitate community building: Making a PACT for more engaging virtual meetings and events](https://doi.org/10.5281/zenodo.4987666). **2021**.
 - Tarallo, B. & Monlux, M. Surviving the Horror of Online Meetings: How to Facilitate Good Virtual Meetings & Manage Meeting Monsters. **2021**.
+- Bird, K. Generative Scribing: A Social Art of the 21st Century. PI Press. **2018**.
+- Parker, P. The Art of Gathering: How We Meet and Why it Matters. Riverhead Books. **2018**.
 - Lipmanowicz & McCandless. The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation. Liberating Structures Press. **2014**.
 - Kaner, S. [Facilitator's Guide to Participatory Decision-Making (Revised)](https://bookshop.org/p/books/facilitator-s-guide-to-participatory-decision-making-sam-kaner/11179446?ean=9781118404959). **2014**.
 - Kantor, D. Reading the room: Group dynamics for coaches and leaders. John Wiley & Sons. **2012**.
 - Gray, D. _et al._, Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers. O'Reilly Media. **2010**.
+- Whitney, D. & A. Trosten-Bloom. The Power of Appreciative Inquiry: A Practical Guide to Positive Change. 2nd edition. Berrett-Koehler Publishers. **2010**.
 - Bohm, D. On Dialogue. Routledge Classics. **2004**.
 
 ### Workshops & Courses
