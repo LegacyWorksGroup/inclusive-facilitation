@@ -60,9 +60,17 @@ As a whole class, let's discuss your answers to the following questions:
 
 :::
 
-### Tool Highlight: Polls & Think-Pair-Share
+### Tool Highlight: Polls, Check-ins, and Think-Pair-Share
 
 **Polls** are useful tools for collecting input. They can be deployed synchronously or asynchronously, anonymously or not. Consider using them before a meeting to understand the group's starting point and help shape the content. Use them during a meeting to collect real time data. Or use them after a meeting to gather feedback. Zoom's integrated polling is simple but effective. Other options include slido, mentimeter, and google forms.
+
+**Check-ins** introduce a little humanity into your meeting and get people warmed up for interaction. Make them a regular part of your meeting culture. Simple prompt options include:
+
+- What's something you are feeling grateful for today?
+- One word or phrase for how you are showing up today
+- A bright spot from your week
+
+Or design a prompt that helps people start to connect personally with the content of the meeting. Provide time for personal connection at the beginning and throughout your meeting. When designing breakout groups, build in five minutes for people to check in with each other. Many will do it anyway, and building in this time helps build group cohesion and trust.
 
 **Think-Pair-Share** is a common teaching tool that is very effective for engaging groups in reflection and discussion. Starting with individual reflection suits those who like to process ideas in quiet. Discussing in pairs allows everyone to share their ideas and learn from each other before highlights are lifted up to the whole group. "[1-2-4-all](https://www.liberatingstructures.com/1-1-2-4-all/)" (sometimes also called "think-pair-square-share") is a related microstructure that can be used to rapidly share and sift ideas in any group of eight or more people. In a virtual setting, to simplify breakout room logistics, it's easiest to just have three levels: individual, breakout groups of 2 or more people, and whole group.
 
@@ -78,53 +86,9 @@ Finally, when the time comes for decision making, effective facilitation can ens
 <img src="images/agreement-alignment.png" alt="Figure of two right-facing arrows filled with smaller arrows. The small arrows filling the large 'agreement' arrow mostly face right but there is a lot of variation. The small arrows filling the large 'alignment' arrow all face the same way as the larger arrow" width="50%"/>
 </p>
 
-## Moving from Debate to Dialogue
-
-Dialogue is a collaborative effort to understand and learn from each other. Debate, on the other hand, is an oppositional effort to convince the other side that you are right. Inclusive facilitation aims to support dialogue and skillful discussion. Dialogue allows groups to recognize the limits on their own and others' individual perspectives and to strive for more coherent thought. Dialogue becomes a container for collective thinking and exploration - a process that can take teams in directions not imagined or planned. In dialogue, all views are treated as equally valid, and different views are presented as a means toward discovering a new view. Participants listen to understand one another, not to win. Complex issues are explored and shared meaning is created. When it comes time to make a decision, skillful discussion is required. Both skillful discussion and dialogue are critical to the collaborative process, and the more artfully a group can move between these two forms of discourse (and out of less productive debate and polite discussion) according to what is needed, the more effective the group will be.
-
-:::{.panel-tabset}
-
-#### Debate
-
-- Intent to win
-- Listening to be understood
-- Power struggles
-- Competition "turf war"
-- Loudest wins
-- Ideas judged by who says them
-
-#### Polite Discussion
-
-- Intent to protect self, others
-- Surface friendly
-- Ideas judged by friendships/relationships
-- Impulsive, based on feeling, low data
-- Influence occurs outside the meeting
-- Limited active or empathetic listening
-
-#### Skillful Discussion
-
-- Intent is closure; informed decisions
-- Balance influence and inquiry
-- Focus on issues not personalities
-- Reasoning is made explicit
-- Ask about assumptions without criticizing
-- Influence is based in logic and data
-
-#### Dialogue
-
-- Intent to build mutual understanding
-- Listening to understand thoughts and feelings
-- Able to suspend assumptions
-- Energy used to find the right questions
-- "Container" for collective thinking
-- Influence is found in shared meaning created by groups
-
-:::
-
 ## Designing Meetings for All Thinking Styles
 
-People have different thinking preferences which influence what they expect and enjoy in group processes (see Ned Herrmann's Whole Brain Model below).
+People have different thinking preferences which influence what they expect and enjoy in group processes (see Ned Herrmann's Whole Brain Model below). A well designed meeting provides pathways for participation that satisfy each of these different preferences. Take this [short quiz](https://docs.google.com/document/d/1XZD_7oVnS6JoFVUfhhXb3pMgSleW_1AK4YDsMEvlwgI/copy) to understand your own thinking preferences better. The Microstructures Tool Highlight later in this module offers activities that work well for each of the different thinking styles.
 
 <p align="center">
 <img src="images/whole-brain-model.png" alt="Top-down image of a human brain divided into four sections next to a circle divided into the same sections. Top left of both is blue, labeled 'analytical' in the circle. Top right is yellow, labeled 'experimental' in the circle. Bottom right is red and labeled 'relational' in circle. Bottom left is green and is labeled 'practical' in the circle. The circle also labels the lines separating each pair of adjacent quadrants as follows: analytical and experimental is 'intellectual', experimental and relational is 'intuitive', relational and practical is 'instinctive', and practical and analytical is 'rational'." width="80%"/>
@@ -141,19 +105,20 @@ To tap diverse perspectives and catalyze productivity and creative problem-solvi
 
 A few simple techniques can help:
  
-1. Mix up the format, e.g., combining silent reflection, round robin, breakout groups, plenary, and/or "liberating structures" (more on these below)
+1. Mix up the format, e.g., combining silent reflection, go arounds, breakout groups, plenary, and/or "liberating structures" (more on these below)
 2. Offer different channels for information sharing - verbal, nonverbal, written, visual, informal, formal
-3. Track and stack who wants to speak 
+3. Track who wants to speak and call on people in order
 4. Invite, amplify, and credit "quieter" voices 
 5. Use active listening - reflect back what you think you are hearing in simple terms and check your assumptions regularly
 
-Be creative and empathetic when you design your agenda. Think about your participants and what is going to help _all of them_ participate fully and creatively. Beyond the thinking preferences, you may also want to consider these other dimensions of diversity which may affect power dynamics, participation, and information processing, as you design your facilitation:
+Be creative and empathetic when you design your agenda. Think about your participants and what is going to help _all of them_ participate fully and creatively. In addition to thinking preferences, you may want to design your facilitation with these other dimensions of diversity – which can affect power dynamics, participation, and information processing – in mind:
 
 - Introverts vs. extroverts
 - Visual, auditory and kinesthetic learners
+- Neurodivergence
 - Differences in discipline, sector, training, and ways of knowing
 - Culture, race, and ethnicity
-- Age and career stage
+- Age or career stage
 - Gender
 - Language
 - Time zone (for geographically distributed teams)
@@ -161,7 +126,7 @@ Be creative and empathetic when you design your agenda. Think about your partici
 
 ## Process Design
 
-Good meeting design starts with understanding your purpose and objectives, as well as your participants. Once you understand why you need to meet (your overarching goal) and what you want to accomplish (the specific outcomes you are driving toward), you can turn to how you will accomplish your purpose (i.e. the agenda of activities, timings, and tech) and who will play what roles. You want participants to know their role and how to be at their best. 
+Good meeting design starts with understanding your purpose and objectives, as well as your participants. Once you understand why you need to meet (your overarching goal or purpose) and what you want to accomplish (the specific outcomes you are driving toward), you can turn to how you will accomplish your purpose (i.e. the agenda of activities, timings, and tech) and who will play what roles. You want participants to know their role and how to be at their best. 
 
 A good rule of thumb is to allow 2-3x as much time to plan a meeting as its duration. 
 
