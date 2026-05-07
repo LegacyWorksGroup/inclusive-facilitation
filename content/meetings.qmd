@@ -140,7 +140,7 @@ Your metrics of success or failure should include:
 - Short or long term outcomes - what we might achieve
 - Process-based indicators - how we want to work together or show up in collaboration
 
-| **<span style="color:red">Failure</span>** | **<span style="color:#BA8E23">Minimum / Essential Success</span>** | **<span style="color:green">Target Success</span>** | **<span style="color:#006400">Epic Success</span>** |
+| **<span style="color:red">Failure</span>** | **<span style="color:#E0B41F">Minimum / Essential Success</span>** | **<span style="color:green">Target Success</span>** | **<span style="color:#006400">Epic Success</span>** |
 |:----------|:----------|:------------|:----------------|
 | _Success means avoiding 100% of these_ | _Success means achieving 100% of these_ | _Success means achieving 40-60% of these_ | _What if we were successful beyond our wildest dreams? May depend on forces beyond our control or beyond the project scope_ |
 | e.g., Feels like a waste of people's time | e.g., Participants are engaged and find the meeting useful | e.g., Novel solutions emerge from the collective contributions of a deeply engaged group | e.g., Leaders step up from within the group to lead a new collaborative initiative to tackle a longstanding problem |
