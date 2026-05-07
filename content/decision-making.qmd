@@ -23,7 +23,7 @@ _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-mag
 
 :::
 ## Under Construction
-{{< person-digging >}} This site is under construction. Check back soon for updates. 
+{{< fa person-digging >}} Check back soon. 
 
 ## Moving from Debate to Dialogue
 
