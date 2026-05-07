@@ -76,13 +76,14 @@ Or design a prompt that helps people begin to connect with the content of the me
 
 ## Benefits of Enabling Full Participation
 
-So what is an effective meeting? It's one that achieves your purpose and wastes no one’s time. Reaching that bar will take some intention!
+So what is an effective meeting? It's one that achieves your purpose, taps the full potential of the group, and wastes no one’s time. Reaching that bar will take some intention!
 
 Good meetings promote: 
+
 - Engagement - they keep people's attention and invite their participation
-- Connection - the more we feel connected, the more we trust the group and the meeting as a space we can contribute
+- Connection - the more we feel connected, the more we trust the group and the meeting as a space where we can contribute
 - Creativity & inclusivity - because we never know where good ideas will come from
-- Productivity - we want results & we want to use people’s time well
+- Productivity - we want results and we want to use people’s time well
 - Future collaborative potential - they make people want to stay engaged and to keep contributing 
 
 Creating the conditions for all members of a group to feel welcome and able to fully participate advances diversity, equity, and inclusion. It also has functional benefits, as diverse teams have been shown to be more productive than less diverse teams. In part, that productivity can be attributed to the ability of the group to elicit and work with novel ideas and approaches, allowing more innovative analysis and problem solving.
@@ -137,7 +138,7 @@ Be creative and empathetic when you design your agenda. Think about your partici
 - Time zone (for geographically distributed teams)
 
 
-## Process Design
+## Purpose Driven Process Design
 
 Good meeting design starts with understanding your purpose and desired outcomes, as well as your participants. Do you need to share or gather information? Have a discussion? Reach a decision? Connect? Celebrate? Kickoff or bring to a close?
 
