@@ -22,6 +22,8 @@ _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-mag
 - [{{< fa square-poll-vertical >}} Drive cycles of continuous improvement and evolution]{.cc-result}
 
 :::
+## Under Construction
+{{< person-digging >}} This site is under construction. Check back soon for updates. 
 
 ## Moving from Debate to Dialogue
 
