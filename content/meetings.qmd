@@ -96,48 +96,6 @@ Finally, when the time comes for decision making, effective facilitation can ens
 <img src="images/agreement-alignment.png" alt="Figure of two right-facing arrows filled with smaller arrows. The small arrows filling the large 'agreement' arrow mostly face right but there is a lot of variation. The small arrows filling the large 'alignment' arrow all face the same way as the larger arrow" width="50%"/>
 </p>
 
-## Designing Meetings for All Thinking Styles
-
-People have different thinking preferences which influence what they expect and enjoy in group processes (see Ned Herrmann's Whole Brain Model below). A well designed meeting provides pathways for participation that satisfy each of these different preferences. 
-
-Take this [short quiz](https://docs.google.com/document/d/1XZD_7oVnS6JoFVUfhhXb3pMgSleW_1AK4YDsMEvlwgI/copy) to understand your own thinking preferences better. 
-
-The Microstructures Tool Highlight later in this module offers activities that work well for each of the different thinking styles.
-
-<p align="center">
-<img src="images/whole-brain-model.png" alt="Top-down image of a human brain divided into four sections next to a circle divided into the same sections. Top left of both is blue, labeled 'analytical' in the circle. Top right is yellow, labeled 'experimental' in the circle. Bottom right is red and labeled 'relational' in circle. Bottom left is green and is labeled 'practical' in the circle. The circle also labels the lines separating each pair of adjacent quadrants as follows: analytical and experimental is 'intellectual', experimental and relational is 'intuitive', relational and practical is 'instinctive', and practical and analytical is 'rational'." width="80%"/>
-<figcaption> Ned Herrmann's Whole Brain Model </figcaption>
-</p>
-
-<p align="center">
-<img src="images/thinking-style-expects.png" alt="Circle divided into same quadrants as previous image where each quadrant contains the expectations and enjoyments of that thinking style. Top left expects clear/concise info, well articulated ideas, accuracy, and certainty and enjoys a good debate, critical analysis, and readings. Top right expects an overview, a conceptual framework, freedom to explore, analogies/metaphors, and visuals and enjoys initiative and imagination, connections to other approaches, newness and 'fun'. Bottom right expects involvement with others, personal anecdotes, experimental approach, and feelings to be considered and enjoys the personal touch, group discussion and harmony. Bottom left expects step-by-step unfolding, detailed program, punctuality, and an explanation of how and enjoys a structured approach, low risk, and concrete examples" width="70%"/>
-</p>
-
-## Ensuring Equitable Access to Participation
-
-To tap diverse perspectives and catalyze productivity and creative problem-solving, we need to design meetings (and projects) so <u>everyone</u> can participate fully, rather than just a few. When tackling complex challenges, voices from the edge are often critical to uncovering new insights and approaches. Democratizing participation doesn't have to be all about controlling the dominant voices in a group; with thoughtful planning and some simple tools, you can design any conversation so that everyone can contribute.
-
-A few simple techniques can help:
- 
-1. Mix up the format, e.g., combining silent reflection, go arounds, breakout groups, plenary, and/or "liberating structures" (more on these below)
-2. Offer different channels for information sharing - verbal, nonverbal, written, visual, informal, formal
-3. Track who wants to speak and call on people in order
-4. Invite, amplify, and credit "quieter" voices 
-5. Use active listening - reflect back what you think you are hearing in simple terms and check your assumptions regularly
-
-Be creative and empathetic when you design your agenda. Think about your participants and what is going to help _all of them_ participate fully and creatively. In addition to thinking preferences, you may want to design your facilitation with these other dimensions of diversity – which can affect power dynamics, participation, and information processing – in mind:
-
-- Introverts vs. extroverts
-- Visual, auditory and kinesthetic learners
-- Neurodivergence
-- Differences in discipline, sector, training, and ways of knowing
-- Culture, race, and ethnicity
-- Age or career stage
-- Gender
-- Language
-- Time zone (for geographically distributed teams)
-
-
 ## Purpose Driven Process Design
 
 Good meeting design starts with understanding your purpose and desired outcomes, as well as your participants. Do you need to share or gather information? Have a discussion? Reach a decision? Connect? Celebrate? Kickoff or bring to a close?
@@ -211,6 +169,51 @@ It's very difficult to both facilitate a conversation and engage fully in it as 
 - **Participation monitor** - engineers opportunities for participation, quells interrupters, amplifies and credits the messages of quieter participants, may also be the facilitator
 
 As you get to know your team members, you can start to match people to these different roles based on their skills and recruit them to help.
+
+
+## Ensuring Equitable Access to Participation
+
+To tap diverse perspectives and catalyze productivity and creative problem-solving, we need to design meetings (and projects) so <u>everyone</u> can participate fully, rather than just a few. When tackling complex challenges, voices from the edge are often critical to uncovering new insights and approaches. Democratizing participation doesn't have to be all about controlling the dominant voices in a group; with thoughtful planning and some simple tools, you can design any conversation so that everyone can contribute.
+
+A few simple techniques can help:
+ 
+1. Mix up the format, e.g., combining silent reflection, go arounds, breakout groups, plenary, and/or "liberating structures" (more on these below)
+2. Offer different channels for information sharing - verbal, nonverbal, written, visual, informal, formal
+3. Track who wants to speak and call on people in order
+4. Invite, amplify, and credit "quieter" voices 
+5. Use active listening - reflect back what you think you are hearing in simple terms and check your assumptions regularly
+
+Be creative and empathetic when you design your agenda. Think about your participants and what is going to help _all of them_ participate fully and creatively. Differences among your group members can affect power dynamics, participation, and information processing. Design your facilitation with these and other differences in mind and you'll get better results:
+
+- Introverts vs. extroverts
+- Visual, auditory and kinesthetic learners
+- Neurodivergence
+- Differences in education, training, and ways of knowing
+- Organization type
+- Role and career stage
+- Culture, race, and ethnicity
+- Age
+- Gender
+- Language
+- Time zone (for geographically distributed teams)
+
+## Designing Meetings for All Thinking Styles
+
+People have different thinking preferences which influence what they expect and enjoy in group processes (see Ned Herrmann's Whole Brain Model below). A well designed meeting provides pathways for participation that satisfy each of these different preferences. 
+
+Take this [short quiz](https://docs.google.com/document/d/1XZD_7oVnS6JoFVUfhhXb3pMgSleW_1AK4YDsMEvlwgI/copy) to understand your own thinking preferences better. 
+
+The Microstructures Tool Highlight later in this module offers activities that work well for each of the different thinking styles.
+
+<p align="center">
+<img src="images/whole-brain-model.png" alt="Top-down image of a human brain divided into four sections next to a circle divided into the same sections. Top left of both is blue, labeled 'analytical' in the circle. Top right is yellow, labeled 'experimental' in the circle. Bottom right is red and labeled 'relational' in circle. Bottom left is green and is labeled 'practical' in the circle. The circle also labels the lines separating each pair of adjacent quadrants as follows: analytical and experimental is 'intellectual', experimental and relational is 'intuitive', relational and practical is 'instinctive', and practical and analytical is 'rational'." width="80%"/>
+<figcaption> Ned Herrmann's Whole Brain Model </figcaption>
+</p>
+
+<p align="center">
+<img src="images/thinking-style-expects.png" alt="Circle divided into same quadrants as previous image where each quadrant contains the expectations and enjoyments of that thinking style. Top left expects clear/concise info, well articulated ideas, accuracy, and certainty and enjoys a good debate, critical analysis, and readings. Top right expects an overview, a conceptual framework, freedom to explore, analogies/metaphors, and visuals and enjoys initiative and imagination, connections to other approaches, newness and 'fun'. Bottom right expects involvement with others, personal anecdotes, experimental approach, and feelings to be considered and enjoys the personal touch, group discussion and harmony. Bottom left expects step-by-step unfolding, detailed program, punctuality, and an explanation of how and enjoys a structured approach, low risk, and concrete examples" width="70%"/>
+</p>
+
 
 ## Alternatives to Conventional Meeting Structures
 
