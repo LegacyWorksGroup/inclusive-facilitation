@@ -130,6 +130,21 @@ In your pair:
 
 :::
 
+### Tool Highlight: Spectrum of Success
+
+For longer or more complex meetings or events (or entire projects), the [Spectrum of Success](https://docs.google.com/document/d/1RvFT2jiwSEm-fw-uA0gaQ9yrN8PsYAaj6W-Q0ll7S44/edit?usp=sharing), developed by Eugene Kim at [Faster than 20](https://fasterthan20.com/) is an excellent tool for elaborating on your purpose and intended outcomes. In each of four columns, along a spectrum from failure to epic success, you articulate specific, concrete metrics of success that you can design for and track progress against. We love using this tool at the start of a co-design process. You can use it with collaborators or clients to build a shared understanding of what you are trying to achieve and how you want the process to feel along the way.
+
+Your metrics of success or failure should include:
+
+- Tangible outputs - what we might produce
+- Short or long term outcomes - what we might achieve
+- Process-based indicators - how we want to work together or show up in collaboration
+
+| **<span style="color:red">Failure</span>** | **<span style="color:yellow">Minimum / Essential Success</span>** | **<span style="color:green">Target Success</span>** | **<span style="color:#006400">Epic Success</span>** |
+|:------------|:------------|:------------|:------------|
+| _Success means avoiding 100% of these_ | _Success means achieving 100% of these_ | _Success means achieving 40-60% of these_ | _What if we were successful beyond our wildest dreams? May depend on forces beyond our control or beyond the project scope_ |
+| Feels like a waste of people's time | Participants are engaged and find the meeting useful | Novel solutions emerge from the collective contributions of a deeply engaged group | Leaders step up from within the group to lead a new collaborative initiative to tackle a longstanding problem |
+
 <p align="center">
 <img src="images/90-percent-rule.jpg" alt="90% of what makes a gathering successful is put in place beforehand. Randa Slim, in the Art of Gathering by Priya Parker" width="95%"/>
 </p>
