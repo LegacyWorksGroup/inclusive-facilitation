@@ -111,13 +111,13 @@ A good rule of thumb is to allow 2-3x as much time to plan a meeting as its dura
 </p>
 
 ::: {.callout-note icon="false"}
-#### Activity: Team Planning
+#### Activity: Defining Your Purpose for Meeting
 
 **Part 1**
 
 On your own, think about an upcoming meeting that hasn't yet been planned
 
-- _Why will you be meeting? What do you think should be the purpose of that meeting?_ 
+- _Why will you be meeting? What is the purpose of the meeting?_ 
 
 **Part 2**
 
@@ -261,10 +261,23 @@ Here are a few microstructures that work well for small to large, in person or v
 <img src="images/project-impact-vs-feasibility.png" alt="Graph of impact versus feasibility where both axes range from low to high and the plot area is divided into four equal sections" width="70%"/>
 </p>
 
+::: {.callout-note icon="false"}
+#### Activity: Exploring Liberating Structures
+
+On your own:
+
+- Open the [Liberating Structures Matchmaker](https://drive.google.com/file/d/1NZy2MxvXuD86m1PxxbQsvKVbP53HXPYz/view?usp=drive_link)
+- Select a purpose from the matchmaker that matches with something you are trying to achieve in your meeting
+- Go to the [Liberating Structures website](https://www.liberatingstructures.com/ls-menu/) and read about the corresponding microstructure
+- Imagine a scenario where you might use it
+- How would it help support your purpose?
+
+:::
+
 ::: {.callout-warning icon="false"}
 #### Discussion: Meeting Microstructures
 
-- What activities did you identify to help make your meeting inclusive and achieve your purpose?
+- What activity(ies) did you identify that might help you engage your meeting participants and achieve your purpose?
 - What questions do you have?
 
 :::
