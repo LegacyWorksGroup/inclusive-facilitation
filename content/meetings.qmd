@@ -140,7 +140,7 @@ Your metrics of success or failure should include:
 - Short or long term outcomes - what we might achieve
 - Process-based indicators - how we want to work together or show up in collaboration
 
-| **<span style="color:red">Failure</span>** | **<span style="color:#E0B41F">Minimum / Essential Success</span>** | **<span style="color:green">Target Success</span>** | **<span style="color:#006400">Epic Success</span>** |
+| **<span style="color:red">Failure</span>** | **<span style="color:orange">Minimum / Essential Success</span>** | **<span style="color:green">Target Success</span>** | **<span style="color:#006400">Epic Success</span>** |
 |:----------|:----------|:------------|:----------------|
 | _Success means avoiding 100% of these_ | _Success means achieving 100% of these_ | _Success means achieving 40-60% of these_ | _What if we were successful beyond our wildest dreams? May depend on forces beyond our control or beyond the project scope_ |
 | e.g., Feels like a waste of people's time | e.g., Participants are engaged and find the meeting useful | e.g., Novel solutions emerge from the collective contributions of a deeply engaged group | e.g., Leaders step up from within the group to lead a new collaborative initiative to tackle a longstanding problem |
@@ -261,6 +261,15 @@ Here are a few microstructures that work well for small to large, in person or v
 <img src="images/project-impact-vs-feasibility.png" alt="Graph of impact versus feasibility where both axes range from low to high and the plot area is divided into four equal sections" width="70%"/>
 </p>
 
+::: {.callout-warning icon="false"}
+#### Discussion: Meeting Microstructures
+
+- What activities did you identify to help make your meeting inclusive and achieve your purpose?
+- What questions do you have?
+
+:::
+
+
 ## Capturing Content
 
 As you go, and definitely before your meeting is over, engage your team in synthesizing and capturing the information that has been discussed. This helps you to deepen understanding, document decisions, identify action items, and pick up easily next time. Use a consistent system - like a running notes document linked in the calendar item. Graphics or drawings can be a valuable complement to oral and written content in making thinking visible.
@@ -297,13 +306,6 @@ In addition to the general tips above, in online settings:
 
 **Collaborative whiteboards** are useful tools for capturing ideas from a group during virtual meetings. They range from simple (EasyRetro, Zoom's whiteboard function) to complex (Mural, miro). Benefits include simultaneous input, the ability to organize information into discrete, movable chunks, and the visual (and lasting) nature of the output.
 
-::: {.callout-warning icon="false"}
-#### Discussion: Meeting Microstructures
-
-- What activities did you identify to help make your meeting inclusive and achieve your purpose?
-- Where would you like advice from the group?
-
-:::
 
 ## Reading the Room
 
