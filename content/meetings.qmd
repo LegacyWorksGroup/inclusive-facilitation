@@ -337,6 +337,7 @@ Each action in a group conversation can be coded into one of these four action m
 <img src="images/figure_four-player-model.jpg" alt="Figure of four modes of communication, arrayed on two axes - Move versus Oppose on the axis of Advocacy and Follow vs. Bystand on the axis of Inquiry." width="95%"/>
 </p>
 
+::: {.callout-note icon="false"}
 #### Activity: Experiencing the Four Player Actions
 
 **Part 1**
