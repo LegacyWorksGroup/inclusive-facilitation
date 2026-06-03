@@ -21,7 +21,140 @@ _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-mag
 
 :::
 
-## Under Construction
+:::{.callout-tip icon="false" collapse="false"}
+## {{< fa brain >}} Learning Objectives
 
-{{< fa person-digging >}} Check back soon
+After completing this module you will be able to: 
+
+- <u>Design effective</u>, inclusive gatherings to tap the inherent potential of diverse groups collaborating across differences
+- <u>Apply</u> methods to ensure equitable access to participation and foster trust and belonging in virtual and in person facilitated sessions
+
+:::
+
+:::{.callout-note icon="false"}
+#### Activity: Weaving Connections
+
+**Part 1** - Reflect & Share
+
+- What’s going on in this picture?
+- What more can we find?
+
+:::
+
+> No one leader can know as much as a group of people who can listen to each other. - Dabney Hailey
+
+## Tool Highlight
+
+A [third thing](https://couragerenewal.org/library/chapter-7-common-ground-third-things%EF%BF%BC%EF%BF%BC/) provides a way into a topic of discussion that might otherwise feel challenging for participants. It may be a **poem, a piece of art or music, an object, a case study or a story.** It’s something other than the facilitator or the participants themselves that they can focus on. Interacting with the third thing – getting into dialogue with it – can help open people up, allow them to talk about things that might not otherwise feel safe, and start to build common ground.
+
+Working with a third thing, we use open, generative questions to invite participants in. An **open, generative question** is one that you as the facilitator couldn’t possibly know the answer to ahead of time. It draws out participants’ unique perspectives. It invites reflection.
+
+We **stay in inquiry**, perhaps longer than it feels comfortable, in order to make space for everyone who wants to share to do so, to weave together more perspectives. The facilitator uses **active listening** to reflect people’s ideas back in their own words and deepen everyone’s understanding.
+
+## Why It Matters
+
+> _Why should we think about access, inclusion, and belonging in our process design and facilitation?_
+
+LegacyWorks Group’s mission is to bring transformative impact initiatives to life. The core of that work is bringing people together. We envision everyone working together so ecosystems, economies, and communities thrive. Achieving that vision requires us to build more inclusive, collaborative, and connective spaces – bridging divides so that we can work together across our differences. 
+
+Taking this seriously can have many benefits. By facilitating inclusive processes and being deliberate about building capacity along the way, this work **advances equity and helps to empower communities.** Engaging the experiences, knowledge, and creativity of a broader range of people and organizations who may have a perspective on the challenges we seek to address tends to lead to **better, more durable outcomes.** Finally, we know that **trust is a rate limiter in collaboration.** We can move no faster than the speed with which we build trust amongst the participants. Taking steps to enhance access, inclusion, and belonging helps build trust in the process, you as the facilitator, and amongst participants. 
+
+In any process there are many **different types of differences** you may be trying to collaborate across. These include differences among individuals like age, race, ethnicity, gender, sexuality, education level or training, seniority, and authority. You may also be working with differences among organizations participating in the collaborative. For example, they may vary in sector, size, and whether they are public or private. Differences in organizational culture can have a big influence on the dynamics within a collaborative.
+What kind of differences are you working to collaborate across in your groups?
+
+::::{.callout-note icon="false"}
+#### Activity: Weaving Connections
+
+**Part 1** - Case Studies
+
+In small groups,
+
+- Introduce yourselves
+- Assign a timekeeper, notetaker, and reporter
+- Read your assigned case study
+- Identify barriers to access and inclusion that might have prevented people from participating in the process described in the case study
+- Identify barriers to access and inclusion that might limit people’s full participation
+- Think about both the visible and invisible barriers people might face. 
+
+:::{.panel-tabset}
+#### 1
+
+
+#### 2
+
+
+#### 3
+
+
+#### 4
+
+:::
+
+**Part 2** - Share Out & Discussion
+
+- What barriers did your group identify?
+- What new insights emerged?
+
+**Part 3** - Return to Case Studies
+
+In small groups
+
+- Consider your case study again.
+- Brainstorm what the process designers and facilitators could do before, during, and after the gathering to increase access, inclusion, and belonging in their process. Consider, for example:
+    - Communications
+    - Representation
+    - Compensation / participation incentives
+    - Scheduling
+    - Meeting format
+    - Physical space
+    - Technology
+    - Content
+    - Activities
+    - Facilitator’s affect, tone, body language
+- Capture your ideas and any open questions that come up.
+
+**Part 4** - Share Out & Discussion
+
+- What ideas did your group identify to enhance access, inclusion, and belonging?
+- What new insights emerged?
+
+::::
+
+## Inclusive Meeting Design
+
+> _Facilitating access, inclusion, and belonging begins long before the meeting._
+
+**It starts with recognizing the power of convening.** From the moment you decide to convene a group, you and whoever is planning with you are wielding power. Power to decide what success looks like, who to invite, and what’s on the agenda. Your earliest visioning and design conversations can be a chance to build collaborative “power with” rather than “power over” the people who may participate in or be affected by your project.
+
+One-on-one meetings, surveys, interviews, and focus groups can be used to **elicit early input from interested or affected parties** and strengthen communication channels. In addition to helping you understand the landscape of opinions and concerns related to your focal area, these tools can help crowdsource ideas to shape the trajectory of your engagement. They can also help you identify potential participants and prime them to engage.
+
+**Who’s in the room, who’s not, and who gets to decide** are powerful questions. Ask yourself, who needs to be in the room for your efforts to succeed? If broader participation is necessary for success, how can you craft an invitation that folks will say yes to? What will motivate them to participate?
+
+What might get in the way of their participation and what can you do to lower those barriers? **Common barriers for community members** include cost of transportation, lack of childcare, conflict with work schedules, language, and mistrust. Community based organizations and small non-profits may also find it difficult to participate due to resource constraints and limited staffing. 
+
+**Virtual meetings** present their own suite of access and inclusion challenges. These can be particularly acute for international collaborations, where differences in time zone, access to technology and bandwidth, language, and culture can lead to uneven access and participation. When possible, avoid **hybrid meetings,** which lead to structural inequities in access to participation. If hybrid is the only option, invest time and attention into making sure remote participants have as full an experience as possible. 
+
+See the table below for suggestions for lowering all these access barriers.
+
+- What might limit participants’ feeling of inclusion? (e.g., language, culture, power dynamics, history, relationships)
+- How might you foster a sense of belonging? (e.g., invitation, priming, room setup or choice of tech)
+
+Accessibility challenges you may hear about if you ask
+Accessibility challenges you likely won’t hear about it
+
+| Barriers to Access and Inclusion | Details | Ways to Address Barriers |
+|:--:|:--------|:--------|
+| Participation & Representation | - Women, racialized people, Global South participants, non-dominant language speakers, neurodivergent people, D/deaf and D/disabled people face extra barriers and are underrepresented <br> - Leadership and decision-making roles rarely reflect diverse voices <br> - Lived experiences are tokenized or under-valued |  |
+| Recruitment, Onboarding & Retention Barriers | - Invitations to participate don’t go beyond known networks or reach intended audiences <br> - Poor onboarding makes it hard for new members to know how to engage <br> - Lack of compensation or recognition leads to burnout / drop out |  |
+| Outreach & Public Engagement Barriers | - Poorly advertised and difficult to navigate public input processes <br> - Meetings scheduled during work hours <br> - Costly to participate (time, transportation, childcare) <br> - Inconvenient location | - Advertise via the channels by which community members get their information and in multiple languages <br> - Multi-lingual surveys and other user-friendly feedback mechanisms <br> - Evening or weekend meetings <br> - Compensation <br> - Childcare <br> - Multiple venues in convenient locations <br> - Virtual meeting(s) to complement in person |
+| Language |  - English is often the only language used, without providing translation or interpretation | - Translation (of invitation, surveys, slides, materials)--can be on the slides or as a handout <br> - Live interpretation (ideally simultaneous with headsets) <br> - Conduct meeting in non-dominant language (flip the interpretation for English speakers) <br> - Single language breakout groups or focus groups |
+| Physical Ability | - Users of wheelchairs, walkers, canes, crutches or other assistive devices <br> - Limited ability to navigate stairs, walk longer distances, sit on the floor, etc. | - Accessible venue and room layout  <br> -  Responsive agenda with options for modification for people with mobility limitations  |
+| Sight | - Blind person or person(s) with visual impairment | - Accessible venue <br> - Documents shared well ahead of time <br> - Large fonts, clear verbal instructions <br> - Tech tools that are compatible with screen readers and other assistive technology <br> - Alt text provided for images in documents and websites  <br> - Responsive agenda - all activities designed to include people with visual limitations  |
+| Hearing | - D/deaf or persons with hearing impairment | - Proper acoustics, amplified sound <br> -Captions and written materials <br> - simple language (avoiding jargon and acronyms) <br> - ASL interpretation<br> - Responsive agenda--all activities designed to include people with hearing limitations |
+| Technology & Virtual Meetings | - Differences in tech available to join virtual meetings (computer, tablet, phone) <br> - Bandwidth limitations <br> - Varying levels of digital literacy <br> - Different levels of platform familiarity / allegiance (e.g., Zoom vs. Teams) <br> - Institutional or country-level restrictions | - Tech host / co-facilitator to provide support <br> - Tech tools for virtual meetings chosen based on participants’ bandwidth, technology (phone, tablet, computer), institutional or national restrictions, and level of digital literacy <br> - All activities designed to work regardless of how a participant is joining <br> - Backup options if tech fails for an individual or the group <br> - digital literacy training (e.g. tech tool tutorials or demos)
+| Hybrid Participation | - Remote participants (or those on the phone when others are on video) experience barriers to participation | - Display remote participants’ video on a large screen to keep them in the group’s consciousness <br> - Ensure remote participants can see and hear what’s happening in the room <br> - In intros, Q&A, or discussions, start with the remote / phone participants--don’t let them be an afterthought <br> - Structure in chances for remote participants to contribute (e.g., go arounds) <br> - Pair each remote person with an in person participant charged with keeping their remote partner engaged. In person attendee joins via laptop with video only to avoid audio feedback <br> - Dedicated person to monitor remote participants, invite their comments and questions <br> - Adapt breakout activities for remote participants; provide facilitation when possible <br> - Provide shared digital resources--slides, notes, etc. |
+| Time Zone | - Working hours across time zones may have little overlap | - Schedule during working hours for all participants if possible <br> - Rotate underdesirable meeting times amongst participants if not |
+| Funding | - Travel, prep time, and accessibility costs often not covered <br> - Funding, if available, usually goes to organizations, not individuals, limiting grassroots involvement <br> - Complex travel and visa processes may limit international participation | - Identify funding barriers and allocate funds to enhance inclusion when possible <br> - Travel assistance |
+| Trust & Power | - Leadership doesn’t reflect marginalized communities <br> - History of injustice or broken trust <br> - Lack of transparency in project aims or decisionmaking |  |
+| Knowledge & Training | - New participants, especially those from marginalized groups may experience knowledge barriers <br> - Challenges understanding technical content <br> - Power imbalance between “experts” and others |  |
 
