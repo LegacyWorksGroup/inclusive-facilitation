@@ -201,14 +201,14 @@ See the table below and [this document](https://github.com/UKHomeOffice/posters/
 ## Additional Resources
 
 ### Papers, Blog Posts, and Books
-Khuri et al., Inclusive Practice Glossary for Facilitators. *2024.*
-brown, a.m. Holding Change: The Way of Emergent Strategy Facilitation and Mediation. AK Press. *2021.*
-Stein Greenberg, S. Creative Acts for Curious People: How to Think, Create, and Lead in Unconventional Ways. a Stanford d.school book. Ten Speed Press. *2021.*
-Tarallo, B. & Monlux, M. Surviving the Horror of Online Meetings: How to Facilitate Good Virtual Meetings & Manage Meeting Monsters. *2021.*
-john a. powell & Rachel Heydemann. [On Bridging: Evidence and Guidance from Real-World Cases.](https://belonging.berkeley.edu/on-bridging) *2020.*
-Kelly Frances Bates, Cynthia Silva Parker, Curtis Ogden. [Power Dynamics: The Hidden Element to Effective Meetings.](https://interactioninstitute.org/power-dynamics-the-hidden-element-to-effective-meetings/) Interaction Institute for Social Change. *2018.*
-[Designing for Accessibility.](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) UK Home Office. 
+- Khuri et al., Inclusive Practice Glossary for Facilitators. *2024.*
+- brown, a.m. Holding Change: The Way of Emergent Strategy Facilitation and Mediation. AK Press. *2021.*
+- Stein Greenberg, S. Creative Acts for Curious People: How to Think, Create, and Lead in Unconventional Ways. a Stanford d.school book. Ten Speed Press. *2021.*
+- Tarallo, B. & Monlux, M. Surviving the Horror of Online Meetings: How to Facilitate Good Virtual Meetings & Manage Meeting Monsters. *2021.*
+- john a. powell & Rachel Heydemann. [On Bridging: Evidence and Guidance from Real-World Cases.](https://belonging.berkeley.edu/on-bridging) *2020.*
+- Kelly Frances Bates, Cynthia Silva Parker, Curtis Ogden. [Power Dynamics: The Hidden Element to Effective Meetings.](https://interactioninstitute.org/power-dynamics-the-hidden-element-to-effective-meetings/) Interaction Institute for Social Change. *2018.*
+- [Designing for Accessibility.](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) UK Home Office. 
 
 ### Workshops
-[OBI University free courses](https://obiu.org/), Othering & Belonging Institute
-[Power and Love for Managers](https://fasterthan20.com/training/power-and-love-for-managers/), Faster than 20
+- [OBI University free courses](https://obiu.org/), Othering & Belonging Institute
+- [Power and Love for Managers](https://fasterthan20.com/training/power-and-love-for-managers/), Faster than 20
