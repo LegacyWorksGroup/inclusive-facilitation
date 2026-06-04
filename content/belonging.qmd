@@ -57,6 +57,20 @@ We **stay in inquiry**, perhaps longer than it feels comfortable, in order to ma
 
 > _No one leader can know as much as a group of people who can listen to each other._ - Dabney Hailey
 
+## Access, Inclusion and Belonging
+
+The Othering & Belonging Institute’s definition of belonging is a beautiful place to start. Belonging is having the right to fully participate in and co-create the world you live in. Belonging means your story is fully seen and valued. Belonging means having the right to make demands on systems and structures. Belonging is being respected as an equal human being with full dignity.
+
+According to the Othering & Belonging Institute, "Belonging is both a feeling and a practice—something we experience personally and something we create collectively." Access and inclusion are steps along the way. We can illustrate this with a gardening metaphor. 
+
+Access means preparing the soil, watering, and providing the necessary sunlight and nutrients for different plant species to thrive.
+Inclusion means designing the garden so that every plant has room to grow and thrive, without any one species choking out the rest.
+Belonging is celebrating the diversity of the garden as a whole; all the plants "fit" naturally because the ecosystem is built to support variety.
+
+<p align="center">
+<img src="images/belonging.jpg" alt="Image showing three clusters of gray and colored dots. The first cluster illustrates exclusion with the multi-colored dots on the outside of a cluster of gray dots. The second cluster illustrates inclusion; the gray dots now include a wedge of multi-colored dots, but the gray dots are still the majority. The final cluster is made up of many multi-color clusters that have combined into a larger whole to represent belonging. Source: Othering & Belonging Institute" width="100%"/> 
+<figcaption> **Spectrum from exclusion to inclusion to belonging**</figcaption>
+</p>
 
 ## Why It Matters
 
@@ -64,13 +78,13 @@ We **stay in inquiry**, perhaps longer than it feels comfortable, in order to ma
 
 LegacyWorks Group's mission is to bring transformative impact initiatives to life. The core of that work is bringing people together. We envision everyone working together so ecosystems, economies, and communities thrive. Achieving that vision requires us to build more inclusive, collaborative, and connective spaces – bridging divides so that we can work together across our differences. 
 
-Taking this seriously can have many benefits. By facilitating inclusive processes and being deliberate about building capacity along the way, this work **advances equity and helps to empower communities.** Engaging the experiences, knowledge, and creativity of a broader range of people and organizations who may have a perspective on the challenges we seek to address tends to lead to **better, more durable outcomes.** Finally, we know that **trust is a rate limiter in collaboration.** We can move no faster than the speed with which we build trust amongst the participants. Taking steps to enhance access, inclusion, and belonging helps build trust in the process, you as the facilitator, and amongst participants. 
+Taking this seriously can have many benefits. By facilitating inclusive processes and being deliberate about building capacity along the way, this work **advances equity and helps to elevate community voices.** Engaging the experiences, knowledge, and creativity of a broader range of people and organizations who may have a perspective on the challenges we seek to address tends to lead to **better, more durable outcomes.** Finally, we know that **trust is a rate limiter in collaboration.** We can move no faster than the speed with which we build trust amongst the participants. Taking steps to enhance access, inclusion, and belonging helps build trust in the process, you as the facilitator, and amongst participants. 
 
 In any process there are many **different types of differences** you may be trying to collaborate across. These include differences among individuals like age, race, ethnicity, gender, sexuality, education level or training, seniority, and authority. You may also be working with differences among organizations participating in the collaborative. For example, they may vary in sector, size, and whether they are public or private. Differences in organizational culture can have a big influence on the dynamics within a collaborative.
 What kind of differences are you working to collaborate across in your groups?
 
 ::::{.callout-note icon="false"}
-#### Activity: Weaving Connections
+#### Activity: Lowering Barriers to Access and Inclusion
 
 **Part 1** - Case Studies
 
@@ -82,6 +96,7 @@ In small groups,
 - Identify barriers to access and inclusion that might have prevented people from participating in the process described in the case study
 - Identify barriers to access and inclusion that might limit people's full participation
 - Think about both the visible and invisible barriers people might face. 
+- Resist the temptation to get into design now. You'll have time for that later.
 
 :::{.panel-tabset}
 #### 1 - Int'l Team
@@ -191,12 +206,74 @@ See the table below and [this document](https://github.com/UKHomeOffice/posters/
 | Trust & Power | - Leadership doesn't reflect marginalized communities <br> - History of injustice or broken trust <br> - Lack of transparency in project aims or decisionmaking | - Representative leadership <br> - Rotating leadership <br> - Trauma-informed practices <br> - Open, regular, transparent communication |
 | Knowledge & Training | - New participants, especially those from marginalized groups may experience knowledge barriers <br> - Challenges understanding technical content <br> - Power imbalance between "experts" and others | - Robust onboarding <br> - Simple, de-jargoned language <br> - Normalize asking questions <br> - Center other ways of knowing, including lived experience, Indigenous knowledge, and practitioner knowledge <br> - Create opportunities for everyone to learn from each other |
 
-## Belonging
+## Power Dynamics
+Power dynamics – the ways in which power works in a setting – can either derail a process and negatively impact relationships for years, or produce more shared power and capacity to get things done. The outcome depends on how well we plan (including what happens within and outside of meetings and how well we attend to power dynamics and facilitate in the moment.
 
-<p align="center">
-<img src="images/belonging.jpg" alt="Image showing three clusters of gray and colored dots. The first cluster illustrates exclusion with the multi-colored dots on the outside of a cluster of gray dots. The second cluster illustrates inclusion; the gray dots now include a wedge of multi-colored dots, but the gray dots are still the majority. The final cluster is made up of many multi-color clusters that have combined into a larger whole to represent belonging. Source: Othering & Belonging Institute" width="100%"/> 
-<figcaption> **Spectrum from exclusion to inclusion to belonging**</figcaption>
-</p>
+Power — the capacity to get things done — is neither positive nor negative in and of itself. There are healthy exercises of power that focus on growing power to achieve positive outcomes by building “power with” others. Unhealthy power is focused on establishing “power over” others or concentrating power in a few.
+
+As facilitative leaders, we strive to wield a healthy power. We develop the capacity of the group to work together through our influence and their trust in us and in the process. Our ability to name and navigate the power dynamics in a group is a key element of building the trust of all members. 
+
+In any group, the individuals vary in their level of power. Their overall power is a combination of their status across a number of different dimensions of power that humans tend to pay attention to. Eugene Kim of Faster than 20 has articulated the following types of individual power:
+
+- *Structural Power* - the power you have based on your title or position in the organization, or physical access
+- *Cultural Power* - the standing society gives you based on your race, ethnicity, gender, sexuality, age 
+- *Relationships Power* - whom you know and the nature of those relationships
+- *Individual Power* - charisma, physical characteristics, etc.
+- *Domain Knowledge Power* - knowledge or expertise relevant to what the group's objectives or topic of conversation
+
+Individual power may be context dependent. I have a lot more power when I am in a setting that preferences my particular expertise than if I am in a setting I know nothing about. Individuals can also act to alter their power by making "moves" that either increase or decrease their power within a group. As facilitators, we need to pay attention to those moves in order to manage the group dynamics well.
+
+#### Activity: Power Lens
+
+**Part 1** - Power Ranking
+
+- Make a copy of this [document](https://docs.google.com/presentation/d/1S1p2TLljhqrG5BZ3_JA3WVaeVSVYxmZBpSc70rmFdx8/edit?usp=drive_link).
+- We're going to apply this to a movie scene but you can use it for any group setting. 
+- What’s the level of trust in this group?
+- In each column, write the names of the group members in order of those you think have the most power to those you think have the least based on the column category. No ties! Add notes explaining why you ranked folks where you did. Think about how the rankings in the different categories contribute to your overall ranking.
+- On the second page, list the different power moves you noticed and their impacts.
+
+**Part 1** - Discussion
+
+- Let's compare our results
+- Could you imagine applying this to a group you are part of?
+- What would you do with the information afterwards? 
+- What are some ways you can address power dynamics as a facilitator or group member?
+
+:::
+
+## Working with Power
+> _What are some ways you can address power dynamics as a facilitator or group member?_
+
+As the facilitator there are many ways you can intentionally shift the power dynamics. The following suggestions are widely applicable and effective:
+
+- Assume power dynamics are present.
+- Name them. Sometimes just having the courage to daylight a power imbalance can shift the dynamic.
+- Be conscious of your own power as the facilitator. Strive to remain as objective as you can (recognizing the facilitator is never 100% neutral). If you want to contribute an idea or opinion, say "I'm going to take off my facilitator hat and voice my personal opinion."
+- Make space for all voices structurally, e.g., with activities that go-arounds, silent google doc'ing, and breakouts
+- Make time for authentic human connection
+- Draw out and amplify less powerful voices
+- Wield your attention (including your eyes, body language, and words) more equitably and the group will follow - stop deferring to the most powerful people in the room
+- Mix up formats
+- Rotate roles
+
+
+## Belonging & Trust
+
+Creating an inclusive culture where people feel a sense of belonging takes time and intention. It is work that is never done. But by pursuing belonging, we create spaces where every voice matters and where everyone can flourish.
+
+Perhaps our most important role in supporting belonging as facilitative leaders is building trust. Without it, little progress will be made. Simple ways to build trust include:
+
+- Establishing your own credibility with the group as an objective and legitimate facilitator
+- Co-creating working agreements and providing accountability if they are violated
+- Modeling the working agreements and shared values of the group - "walking the talk"
+- Following through on commitments
+- Owning your own mistakes and biases
+- Designing in time for personal connections and informal communication
+- Providing safe invitations for authenticity and vulnerability
+- Prioritizing regular, open, transparent communication and information sharing
+- Doing fun things together
+- Doing difficult things together
 
 ## Additional Resources
 
