@@ -31,6 +31,11 @@ After completing this module you will be able to:
 
 :::
 
+<p align="center">
+<img src="images/belonging_Wenjia-Tang.jpg" alt="Infographic by Wenjia Tang showing multiple vignettes of people connecting across differences - racial, ethnic, economic, social, sectoral, age, physical ability - surrounded by plants, animals, and multi-cultural iconography. The words Connection, Agency & Co-Creation, Inclusion, Recognition, and Belonging without Othering appear. A definition of belonging from the Othering & Belonging Institute is given in the bottom left: Belonging is having the right to fully participate in and co-create the world you live in. Belonging means your story is fully seen and valued. Belonging means having the right to make demands on systems and structures. Belonging is being respected as an equal human being with full dignity." width="100%"/> 
+<figcaption> **Image by Wenjia Tang, Othering & Belonging Institute**</figcaption>
+</p>
+
 :::{.callout-note icon="false"}
 #### Activity: Visual Thinking Warm-up
 
@@ -185,6 +190,13 @@ See the table below and [this document](https://github.com/UKHomeOffice/posters/
 | Funding | - Travel, prep time, and accessibility costs often not covered <br> - Funding, if available, usually goes to organizations, not individuals, limiting grassroots involvement <br> - Complex travel and visa processes may limit international participation | - Identify funding barriers and allocate funds to enhance inclusion when possible <br> - Travel assistance |
 | Trust & Power | - Leadership doesn't reflect marginalized communities <br> - History of injustice or broken trust <br> - Lack of transparency in project aims or decisionmaking | - Representative leadership <br> - Rotating leadership <br> - Trauma-informed practices <br> - Open, regular, transparent communication |
 | Knowledge & Training | - New participants, especially those from marginalized groups may experience knowledge barriers <br> - Challenges understanding technical content <br> - Power imbalance between "experts" and others | - Robust onboarding <br> - Simple, de-jargoned language <br> - Normalize asking questions <br> - Center other ways of knowing, including lived experience, Indigenous knowledge, and practitioner knowledge <br> - Create opportunities for everyone to learn from each other |
+
+## Belonging
+
+<p align="center">
+<img src="images/belonging.jpg" alt="Image showing three clusters of gray and colored dots. The first cluster illustrates exclusion with the multi-colored dots on the outside of a cluster of gray dots. The second cluster illustrates inclusion; the gray dots now include a wedge of multi-colored dots, but the gray dots are still the majority. The final cluster is made up of many multi-color clusters that have combined into a larger whole to represent belonging. Source: Othering & Belonging Institute" width="100%"/> 
+<figcaption> **Spectrum from exclusion to inclusion to belonging**</figcaption>
+</p>
 
 ## Additional Resources
 
