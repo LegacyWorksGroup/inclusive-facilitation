@@ -32,7 +32,7 @@ After completing this module you will be able to:
 :::
 
 :::{.callout-note icon="false"}
-#### Activity: Weaving Connections
+#### Activity: Visual Thinking Warm-up
 
 **Part 1** - Reflect & Share
 
@@ -41,7 +41,7 @@ After completing this module you will be able to:
 
 :::
 
-> No one leader can know as much as a group of people who can listen to each other. - Dabney Hailey
+> _No one leader can know as much as a group of people who can listen to each other._ - Dabney Hailey
 
 ## Tool Highlight
 
@@ -115,7 +115,9 @@ You want the field trip to be a chance for people to learn, connect, and get ins
 
 Though folks seem excited to see the preserve, you have some concerns about accessibility. Parts of the preserve are pretty rugged. One of your participants just had knee surgery and will be on crutches. Another has a hearing impairment - the site can be very windy - will they be able to hear?  You have access to vans and an indoor conference room in the field station. You can choose among several different sites to see the prescribed fire results; they vary in their accessibility and features.
 
+
 :::
+
 
 **Part 2** - Share Out & Discussion
 
@@ -171,17 +173,18 @@ Accessibility challenges you likely won't hear about it
 
 | Barriers to Access and Inclusion | Details | Ways to Address Barriers |
 |:--:|:--------|:--------|
-| Participation & Representation | - Women, racialized people, Global South participants, non-dominant language speakers, neurodivergent people, D/deaf and D/disabled people face extra barriers and are underrepresented <br> - Leadership and decision-making roles rarely reflect diverse voices <br> - Lived experiences are tokenized or under-valued |  |
-| Recruitment, Onboarding & Retention Barriers | - Invitations to participate don't go beyond known networks or reach intended audiences <br> - Poor onboarding makes it hard for new members to know how to engage <br> - Lack of compensation or recognition leads to burnout / drop out |  |
+| Participation & Representation | - Women, racialized people, Global South participants, non-dominant language speakers, neurodivergent people, D/deaf and D/disabled people face extra barriers and are underrepresented <br> - Leadership and decision-making roles rarely reflect diverse voices <br> - Lived experiences are tokenized or under-valued | - Consider who’s not in the room? Who needs to be? <br> - Recruit participants from interested and affected groups <br> - Address specific barriers <br> - Rotate leadership roles <br> - Take lived experience, informal knowledge, Indigenous knowledge and other ways of knowing seriously |
+| Recruitment, Onboarding & Retention Barriers | - Invitations to participate don't go beyond known networks or reach intended audiences <br> - Poor onboarding makes it hard for new members to know how to engage <br> - Lack of compensation or recognition leads to burnout / drop out | - Cultivate relationships with key communicators who can help you reach groups beyond your usual networks <br> - Invest time in onboarding <br> - Compensate people for time, travel, and other expenses <br> - Provide public and private recognition for people’s contributions |
 | Outreach & Public Engagement Barriers | - Poorly advertised and difficult to navigate public input processes <br> - Meetings scheduled during work hours <br> - Costly to participate (time, transportation, childcare) <br> - Inconvenient location | - Advertise via the channels by which community members get their information and in multiple languages <br> - Multi-lingual surveys and other user-friendly feedback mechanisms <br> - Evening or weekend meetings <br> - Compensation <br> - Childcare <br> - Multiple venues in convenient locations <br> - Virtual meeting(s) to complement in person |
 | Language |  - English is often the only language used, without providing translation or interpretation | - Translation (of invitation, surveys, slides, materials)--can be on the slides or as a handout <br> - Live interpretation (ideally simultaneous with headsets) <br> - Conduct meeting in non-dominant language (flip the interpretation for English speakers) <br> - Single language breakout groups or focus groups |
 | Physical Ability | - Users of wheelchairs, walkers, canes, crutches or other assistive devices <br> - Limited ability to navigate stairs, walk longer distances, sit on the floor, etc. | - Accessible venue and room layout  <br> -  Responsive agenda with options for modification for people with mobility limitations  |
-| Sight | - Blind person or person(s) with visual impairment | - Accessible venue <br> - Documents shared well ahead of time <br> - Large fonts, clear verbal instructions <br> - Tech tools that are compatible with screen readers and other assistive technology <br> - Alt text provided for images in documents and websites  <br> - Responsive agenda - all activities designed to include people with visual limitations  |
+| Sight | - Blind person or person(s) with visual impairment <br> - Colorblind person(s) | - Accessible venue <br> - Documents shared well ahead of time <br> - Large fonts, clear verbal instructions <br> - Use a combination of colors, shapes, and texts <br> - Use a color-blind friendly palette; avoid red-green contrasts <br> -Tech tools that are compatible with screen readers and other assistive technology <br> - Alt text provided for images in documents and websites  <br> - Responsive agenda - all activities designed to include people with visual limitations |
 | Hearing | - D/deaf or persons with hearing impairment | - Proper acoustics, amplified sound <br> -Captions and written materials <br> - simple language (avoiding jargon and acronyms) <br> - ASL interpretation<br> - Responsive agenda--all activities designed to include people with hearing limitations |
+| Neurodivergence | - Those whose neurology diverges from what society considers typical <br> - Includes people with Autism Spectrum Disorder (ASD), ADHD (Attention-Deficit/Hyperactivity Disorder), learning disabilities (e.g., dyslexia, dyscalculia), and other conditions such as Tourette's syndrome, dyspraxia, and mental health conditions like anxiety or PTSD | - Use plain language <br> - Simple colors and layouts <br> - Use images and diagrams to support text <br> - Consider providing content in multiple formats, e.g. audio, video, written  <br> - Make important information clear <br> - Give participants enough time to complete tasks <br> - Allow for silence |
 | Technology & Virtual Meetings | - Differences in tech available to join virtual meetings (computer, tablet, phone) <br> - Bandwidth limitations <br> - Varying levels of digital literacy <br> - Different levels of platform familiarity / allegiance (e.g., Zoom vs. Teams) <br> - Institutional or country-level restrictions | - Tech host / co-facilitator to provide support <br> - Tech tools for virtual meetings chosen based on participants' bandwidth, technology (phone, tablet, computer), institutional or national restrictions, and level of digital literacy <br> - All activities designed to work regardless of how a participant is joining <br> - Backup options if tech fails for an individual or the group <br> - digital literacy training (e.g. tech tool tutorials or demos)
 | Hybrid Participation | - Remote participants (or those on the phone when others are on video) experience barriers to participation | - Display remote participants' video on a large screen to keep them in the group's consciousness <br> - Ensure remote participants can see and hear what's happening in the room <br> - In intros, Q&A, or discussions, start with the remote / phone participants--don't let them be an afterthought <br> - Structure in chances for remote participants to contribute (e.g., go-arounds) <br> - Pair each remote person with an in person participant charged with keeping their remote partner engaged. In person attendee joins via laptop with video only to avoid audio feedback <br> - Dedicated person to monitor remote participants, invite their comments and questions <br> - Adapt breakout activities for remote participants; provide facilitation when possible <br> - Provide shared digital resources--slides, notes, etc. |
 | Time Zone | - Working hours across time zones may have little overlap | - Schedule during working hours for all participants if possible <br> - Rotate underdesirable meeting times amongst participants if not |
 | Funding | - Travel, prep time, and accessibility costs often not covered <br> - Funding, if available, usually goes to organizations, not individuals, limiting grassroots involvement <br> - Complex travel and visa processes may limit international participation | - Identify funding barriers and allocate funds to enhance inclusion when possible <br> - Travel assistance |
-| Trust & Power | - Leadership doesn't reflect marginalized communities <br> - History of injustice or broken trust <br> - Lack of transparency in project aims or decisionmaking |  |
-| Knowledge & Training | - New participants, especially those from marginalized groups may experience knowledge barriers <br> - Challenges understanding technical content <br> - Power imbalance between "experts" and others |  |
+| Trust & Power | - Leadership doesn't reflect marginalized communities <br> - History of injustice or broken trust <br> - Lack of transparency in project aims or decisionmaking | - Representative leadership <br> - Rotating leadership <br> - Trauma-informed practices <br> - Open, regular, transparent communication |
+| Knowledge & Training | - New participants, especially those from marginalized groups may experience knowledge barriers <br> - Challenges understanding technical content <br> - Power imbalance between "experts" and others | - Robust onboarding <br> - Simple, de-jargoned language <br> - Normalize asking questions <br> - Center other ways of knowing, including lived experience, Indigenous knowledge, and practitioner knowledge <br> - Create opportunities for everyone to learn from each other |
 
