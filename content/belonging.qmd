@@ -41,15 +41,17 @@ After completing this module you will be able to:
 
 :::
 
-> _No one leader can know as much as a group of people who can listen to each other._ - Dabney Hailey
 
-## Tool Highlight
+## Tool Highlight - Third Things
 
 A [third thing](https://couragerenewal.org/library/chapter-7-common-ground-third-things%EF%BF%BC%EF%BF%BC/) provides a way into a topic of discussion that might otherwise feel challenging for participants. It may be a **poem, a piece of art or music, an object, a case study or a story.** It's something other than the facilitator or the participants themselves that they can focus on. Interacting with the third thing – getting into dialogue with it – can help open people up, allow them to talk about things that might not otherwise feel safe, and start to build common ground.
 
 Working with a third thing, we use open, generative questions to invite participants in. An **open, generative question** is one that you as the facilitator couldn't possibly know the answer to ahead of time. It draws out participants' unique perspectives. It invites reflection.
 
 We **stay in inquiry**, perhaps longer than it feels comfortable, in order to make space for everyone who wants to share to do so, to weave together more perspectives. The facilitator uses **active listening** to reflect people's ideas back in their own words and deepen everyone's understanding.
+
+> _No one leader can know as much as a group of people who can listen to each other._ - Dabney Hailey
+
 
 ## Why It Matters
 
@@ -163,13 +165,9 @@ What might get in the way of their participation and what can you do to lower th
 
 **Virtual meetings** present their own suite of access and inclusion challenges. These can be particularly acute for international collaborations, where differences in time zone, access to technology and bandwidth, language, and culture can lead to uneven access and participation. When possible, avoid **hybrid meetings,** which lead to structural inequities in access to participation. If hybrid is the only option, invest time and attention into making sure remote participants have as full an experience as possible. 
 
-See the table below for suggestions for lowering all these access barriers.
+It's best practice to *ask participants in advance what may limit their ability to participate* fully and how you can support their participation. But be aware that some people may be reluctant to call out these barriers or ask for support. They may also only share certain barriers, while other less visible or more charged challenges like power dynamics, past trauma, or imposter syndrome lurk below the surface. As process designers and facilitators, we need to *be alert for anything that stifles participation, whether spoken or unspoken.* 
 
-- What might limit participants' feeling of inclusion? (e.g., language, culture, power dynamics, history, relationships)
-- How might you foster a sense of belonging? (e.g., invitation, priming, room setup or choice of tech)
-
-Accessibility challenges you may hear about if you ask
-Accessibility challenges you likely won't hear about it
+See the table below and this document on universal design for accessibility for suggestions for lowering a wide variety of access barriers. 
 
 | Barriers to Access and Inclusion | Details | Ways to Address Barriers |
 |:--:|:--------|:--------|
