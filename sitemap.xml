@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://LegacyWorksGroup.github.io/inclusive-facilitation/recordings.html</loc>
-    <lastmod>2026-06-10T17:29:27.495Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/inclusive-facilitation/content/meetings.html</loc>
-    <lastmod>2026-06-10T17:29:27.495Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/inclusive-facilitation/content/belonging.html</loc>
-    <lastmod>2026-06-10T17:29:27.467Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/inclusive-facilitation/content/decision-making.html</loc>
-    <lastmod>2026-06-10T17:29:27.469Z</lastmod>
+    <loc>https://LegacyWorksGroup.github.io/inclusive-facilitation/resources.html</loc>
+    <lastmod>2026-06-29T21:14:53.294Z</lastmod>
   </url>
   <url>
     <loc>https://LegacyWorksGroup.github.io/inclusive-facilitation/index.html</loc>
-    <lastmod>2026-06-10T17:29:27.495Z</lastmod>
+    <lastmod>2026-06-29T21:14:53.294Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/inclusive-facilitation/content/decision-making.html</loc>
+    <lastmod>2026-06-29T21:14:53.268Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/inclusive-facilitation/content/belonging.html</loc>
+    <lastmod>2026-06-29T21:14:53.266Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/inclusive-facilitation/content/meetings.html</loc>
+    <lastmod>2026-06-29T21:14:53.294Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/inclusive-facilitation/recordings.html</loc>
+    <lastmod>2026-06-29T21:14:53.294Z</lastmod>
   </url>
 </urlset>
