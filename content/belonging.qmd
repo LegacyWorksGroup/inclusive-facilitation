@@ -278,13 +278,18 @@ Perhaps our most important role in supporting belonging as facilitative leaders 
 ## Additional Resources
 
 ### Papers, Blog Posts, and Books
+- McCandless, K. & N. White. The Liberating Structures Fieldbook: Flipping the Script on Meetings, Planning, and Progress. Liberating Structures Press. 2026.
+- Gray, D. & S. Brown. Game Storming 2.0: An Updated Playbook for Innovators, Rulebreakers, and Changemakers. O'Reilly. 2025.
 - Khuri et al., Inclusive Practice Glossary for Facilitators. **2024.**
 - brown, a.m. Holding Change: The Way of Emergent Strategy Facilitation and Mediation. AK Press. **2021.**
 - Stein Greenberg, S. Creative Acts for Curious People: How to Think, Create, and Lead in Unconventional Ways. a Stanford d.school book. Ten Speed Press. **2021.**
 - Tarallo, B. & Monlux, M. Surviving the Horror of Online Meetings: How to Facilitate Good Virtual Meetings & Manage Meeting Monsters. **2021.**
 - john a. powell & Rachel Heydemann. [On Bridging: Evidence and Guidance from Real-World Cases.](https://belonging.berkeley.edu/on-bridging) **2020.**
-- Kelly Frances Bates, Cynthia Silva Parker, Curtis Ogden. [Power Dynamics: The Hidden Element to Effective Meetings.](https://interactioninstitute.org/power-dynamics-the-hidden-element-to-effective-meetings/) Interaction Institute for Social Change. **2018.**
+- Bates, K.F., C. Silva Parker, C. Ogden. [Power Dynamics: The Hidden Element to Effective Meetings.](https://interactioninstitute.org/power-dynamics-the-hidden-element-to-effective-meetings/) Interaction Institute for Social Change. **2018.**
+- Mattessich, P.W. & K.M. Johnson. Collaboration: What Makes It Work. 3rd ed. Fieldstone Alliance. 2018.
 - [Designing for Accessibility.](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) UK Home Office. 
+
+
 
 ### Workshops
 - [OBI University free courses](https://obiu.org/), Othering & Belonging Institute
