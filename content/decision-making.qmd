@@ -85,7 +85,7 @@ Before we dive into the diamond model, let's distinguish four different forms of
 
 :::
 
-Your role as a facilitator is to support inclusive dialogue and skillful discussion. When wrestling with complex topics, dialogue allows groups to recognize the limits on their own and others' individual perspectives and to strive for more coherent thought. Dialogue becomes a container for collective thinking and exploration (especially during divergent and emergent thinking stages) - a process that can take teams in directions not imagined or planned. In dialogue, all views are treated as equally valid, and different views are presented as a means toward discovering a new view. Participants listen to understand one another and make shared meaning, not to win. When it comes time to make a decision, **skillful discussion** is required. Both skillful discussion and dialogue are critical to the collaborative process, and the more artfully a group can move between these two forms of discourse (and out of less productive debate and polite discussion) according to what is needed, the more effective the group will be.
+Your role as a facilitator is to support inclusive dialogue and skillful discussion. When wrestling with complex topics, dialogue allows groups to recognize the limits on their own and others' individual perspectives and to strive for more coherent thought. Dialogue becomes a container for collective thinking and exploration (especially during divergent and emergent thinking stages) - a process that can take teams in directions not imagined or planned. In dialogue, all views are treated as equally valid, and different views are presented as a means toward discovering a new view. Participants listen to understand one another and make shared meaning, not to win. When it comes time to make a decision, skillful discussion is required. Both skillful discussion and dialogue are critical to the collaborative process, and the more artfully a group can move between these two forms of discourse (and out of less productive debate and polite discussion) according to what is needed, the more effective the group will be.
 
 ## Embracing Divergent Thinking
 
@@ -168,28 +168,35 @@ Discuss as a team _who_ is ultimately responsible for making the decision and _h
 <figcaption> **Decision making approaches and fallback options**</figcaption>
 </p>
 
-Decisionmaking checklist
-- Clearly communicate when it's time to end deliberation and make a decision
-- Clarify what is being decided: What's the question? What are the options?
-- Identify the decisionmaker: Who ultimately has responsibility for making this decision?
-- Identify your decision making model
--- Consensus - everyone agrees
--- Consent - no one objects
--- Majority rules
--- Delegate to an individual or group
-- Know your fallback plan if you can’t reach your decision threshold
+Pick your decision model to suit your context. Consensus and other participatory decision making processes take time and effort and shouldn't be used for every decision. Small decisions, low risk decisions, and those that sit squarely within one person's authority don't need to be made by consensus. For bigger decisions, consider, what's more important - speed or group ownership? Which will be more costly to your group: a missed opportunity that results from moving too slowly or an uninformed / bad decision? Is this decision a one-way door or is it easily reversible? Is the proposal safe to try? If moving quickly is valuable and the proposal constitutes a safe-to-fail experiment that won't jeopardize your mission, you may want to empower an individual or team to make the decision and act.
 
-A DARCI grid can clarify who is the decision maker and who will be affected by the decision.
+
+
+### Decisionmaking checklist
+
+- [ ] Clarify what is being decided: What's the question? What are the options?
+- [ ] Clearly communicate when it's time to end deliberation and make a decision (Fist to Five / Levels of agreement can help you assess if the group is ready)
+- [ ] Identify the decisionmaker: Who ultimately has responsibility for making this decision?
+- [ ] Identify your decision making model
+- Consensus - everyone agrees
+- Consent - no one objects
+- Majority rules
+- Delegate to an individual or group
+- [ ] Check your biases - Have you checked your assumptions? Have you sought diverse opinions? Have you adequately considered the downside risks?
+- [ ] Know your fallback plan if you can’t reach your decision threshold within your allotted timeframe
+
+A **DARCI** grid can clarify who is the decision maker and who will be affected by the decision.
 
 | **Task** | **Decisionmaker** | **Accountable** | **Responsible** | **Consulted** | **Informed** |
 |:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
-| | These people have the ultimate and final approval or veto for project-related decisions | This single person is accountable for ensuring the work gets done | These are the people who are responsible for doing work on the project | Those from whom input will be solicited | Those to be kept apprised of relevant developments |
+| | These people have the ultimate and final approval or veto power | This single person is accountable for ensuring the work gets done | These are the people who are responsible for contributing to the work | Those from whom input will be solicited | Those to be kept apprised of relevant developments |
 | Workstream 1 | Name | Name | Name | Name | Name |
 | Workstream 2 | Name | Name | Name | Name | Name |
+| | | | | | |
 
-Techniques that are useful in this phase include:
+### Techniques that are useful in this phase include:
  
-- Pulling up concrete examples for inspiration
+- Pulling up examples for inspiration
 - Inviting concrete, written proposals
 - Clarifying selection criteria and evaluating proposals against them
 - Combining the best elements of multiple ideas to support more innovative, inclusive solutions
