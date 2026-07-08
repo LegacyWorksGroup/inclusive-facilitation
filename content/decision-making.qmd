@@ -85,7 +85,11 @@ Before we dive into the diamond model, let's distinguish four different forms of
 
 :::
 
-Your role as a facilitator is to support inclusive dialogue and skillful discussion. When wrestling with complex topics, dialogue allows groups to recognize the limits on their own and others' individual perspectives and to strive for more coherent thought. Dialogue becomes a container for collective thinking and exploration (especially during divergent and emergent thinking stages) - a process that can take teams in directions not imagined or planned. In dialogue, all views are treated as equally valid, and different views are presented as a means toward discovering a new view. Participants listen to understand one another and make shared meaning, not to win. When it comes time to make a decision, skillful discussion is required. Both skillful discussion and dialogue are critical to the collaborative process, and the more artfully a group can move between these two forms of discourse (and out of less productive debate and polite discussion) according to what is needed, the more effective the group will be.
+Your role as a facilitator is to support inclusive dialogue and skillful discussion. When wrestling with complex topics, dialogue allows groups to recognize the limits on their own and others' individual perspectives and to strive for more comprehensive and coherent understanding. Dialogue becomes a container for collective thinking and exploration (especially during divergent and emergent thinking stages) - a process that can take teams in directions not imagined or planned. In dialogue, all views are treated as equally valid, and different views are presented as a means toward discovering a new view. Participants listen to understand one another and make shared meaning, not to win. 
+
+When it comes time to make a decision, skillful discussion is required. This stage calls on us to be adept at giving and receiving feedback - separating people from their positions, speaking candidly, listening actively, and not taking criticism personally. As a facilitator, you can further support skillful discussion by addressing power dynamics and biases that might affect the group's ability to make an objective decision. Be conscious of hierarchies that might affect how people participate and the weight given to their views (see [Power Dynamics](https://legacyworksgroup.github.io/inclusive-facilitation/content/belonging.html#power-dynamics)). 
+
+Both skillful discussion and dialogue are critical to the collaborative process, and the more artfully a group can move between these two forms of discourse (and out of less productive debate and polite discussion) according to what is needed, the more effective the group will be.
 
 ## Embracing Divergent Thinking
 
@@ -186,7 +190,7 @@ Consider a consent decision making process to reach safe-to-try decisions with t
 ### Decisionmaking checklist
 
 - [ ] Clarify what is being decided: What's the question? What are the options?
-- [ ] Clearly communicate when it's time to end deliberation and make a decision (Fist to Five / Levels of agreement can help you assess if the group is ready)
+- [ ] Set a realistic timeline for decisionmaking, then clearly communicate when it's time to end deliberation and make a decision (Fist to Five / Levels of agreement can help you assess if the group is ready)
 - [ ] Identify the decisionmaker: Who ultimately has responsibility for making this decision?
 - [ ] Identify your decision making model
     - Consensus - everyone agrees
@@ -195,6 +199,8 @@ Consider a consent decision making process to reach safe-to-try decisions with t
     - Delegate to an individual or group
 - [ ] Check your biases - Have you checked your assumptions? Have you sought diverse opinions? Have you adequately considered the downside risks?
 - [ ] Know your fallback plan if you can’t reach your decision threshold within your allotted timeframe
+
+### DARCI
 
 A **DARCI** grid can clarify who is the decision maker and who will be affected by the decision.
 
@@ -269,7 +275,7 @@ Share with the whole group
 | [What, So What, Now What](https://www.liberatingstructures.com/9-what-so-what-now-what-w/) | EC | Make sense of past progress or experiences and decide on future actions | What - As a group, compile the facts and observations relevant to the context; So What - Reflect on the facts and their implications, identify patterns, generate hypotheses; Now What - Draw conclusions - What actions make sense? | Be firm in calling out opinions being passed off as facts in the What stage. Stick to what is observable. |
 | Polling | EC | Rank alternatives | Decide how many votes per person - a good rule of thumb is 1 dot for every 4 or 5 alternatives; In person - use sticky dots; Virtually - use +1s in a google doc or a digital polling tool (e.g., Zoom, Mural, slido) | Before you start - clarify how you will use the results - are you gauging the distribution of support (a heat map) or taking a vote to make a decision? |
 | Feasibility x impact matrix | C | Compare alternatives | Discuss and agree on definitions for two criteria for evaluating ideas: feasibility of implementation and impact potential; Rate each idea against these two axes and map onto 2x2 grid | How you define the axes must be clear and agreed upon by everyone before you start |
-| [Fist to Five](https://gamestorming.com/five-fingered-consensus/) / Gradient of Agreement | C | Assess degree of consensus; seek closure | Use when ready to close a discussion or make a decision; Invite participants to rate their level of agreement with a proposal on a scale of 0-5; Five fingers means "absolute, total agreement or support" and a fist means "complete opposition" | If you have some 1s and 2s, more discussion is needed - ask them to explain their concerns or questions |
+| [Fist to Five](https://gamestorming.com/five-fingered-consensus/) / [Gradient of Agreement](https://i2insights.org/2021/05/25/gradients-of-agreement-tool/) | C | Assess degree of consensus; seek closure | Use when ready to close a discussion or make a decision; Invite participants to rate their level of agreement with a proposal on a scale of 0-5; Five fingers means "absolute, total agreement or support" and a fist means "complete opposition" | If you have some 1s and 2s, more discussion is needed - ask them to explain their concerns or questions |
 | Open discussion | DEC | Group inquiry, sensemaking, and/or decision-making | Clearly define the scope; set agreements for inclusive discussion; invite discussion about the topic at hand; capture ideas and questions; listen for when the group is ready to converge | Keep track of side topics (e.g. in a "bike rack") and make time to come back to them, but don't let them derail |
 | Breakout groups | DEC | Engage everyone deeply; avoid groupthink | Define the scope and intended outcomes; set a time limit; assign roles (facilitator, notetaker, reporter); model what you want in the report out | Consider whether all groups should work with the same prompts or different aspects of the problem |
 | Chart writing or whiteboarding | DEC | Reflect participant's viewpoints back to the group | On a virtual or physical chart or whiteboard, capture key points in the discussion so everyone can see them | Use speakers' own words; if the comment is long or complex, ask the speaker to give you a headline you can capture |
