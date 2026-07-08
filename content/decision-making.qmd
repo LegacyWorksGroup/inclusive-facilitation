@@ -168,8 +168,19 @@ Discuss as a team _who_ is ultimately responsible for making the decision and _h
 <figcaption> **Decision making approaches and fallback options**</figcaption>
 </p>
 
-Pick your decision model to suit your context. Consensus and other participatory decision making processes take time and effort and shouldn't be used for every decision. Small decisions, low risk decisions, and those that sit squarely within one person's authority don't need to be made by consensus. For bigger decisions, consider, what's more important - speed or group ownership? Which will be more costly to your group: a missed opportunity that results from moving too slowly or an uninformed / bad decision? Is this decision a one-way door or is it easily reversible? Is the proposal safe to try? If moving quickly is valuable and the proposal constitutes a safe-to-fail experiment that won't jeopardize your mission, you may want to empower an individual or team to make the decision and act.
+Pick your decision model to suit your context. Consensus and other participatory decision making processes take time and effort and shouldn't be used for every decision. Small decisions, low risk decisions, and those that sit squarely within one person's authority don't need to be made by consensus. For bigger decisions, consider, what's more important - speed or group ownership? Which will be more costly to your group: a missed opportunity that results from moving too slowly or an uninformed / bad decision? Is this decision a one-way door or is it easily reversible? Is the proposal safe to try? If moving quickly is valuable and the proposal constitutes a safe-to-try experiment that won't jeopardize your mission, you may want to empower an individual or team to make the decision and act.
 
+### Consent Process
+
+Consider a consent decision making process to reach safe-to-try decisions with these rounds:
+
+1. Offer proposal
+1. Field clarifying questions
+1. Invite and listen to reactions to the proposal
+1. Restate proposal (with or without changes)
+1. Listen to objections - “Do you see any reasons why adopting this proposal would cause harm or move us backward?”
+1. Amend proposal to address objections
+1. Ratify proposal if all objections have been addressed
 
 
 ### Decisionmaking checklist
@@ -178,10 +189,10 @@ Pick your decision model to suit your context. Consensus and other participatory
 - [ ] Clearly communicate when it's time to end deliberation and make a decision (Fist to Five / Levels of agreement can help you assess if the group is ready)
 - [ ] Identify the decisionmaker: Who ultimately has responsibility for making this decision?
 - [ ] Identify your decision making model
-- Consensus - everyone agrees
-- Consent - no one objects
-- Majority rules
-- Delegate to an individual or group
+    - Consensus - everyone agrees
+    - Consent - no one objects
+    - Majority rules
+    - Delegate to an individual or group
 - [ ] Check your biases - Have you checked your assumptions? Have you sought diverse opinions? Have you adequately considered the downside risks?
 - [ ] Know your fallback plan if you can’t reach your decision threshold within your allotted timeframe
 
@@ -194,16 +205,21 @@ A **DARCI** grid can clarify who is the decision maker and who will be affected 
 | Workstream 2 | Name | Name | Name | Name | Name |
 | | | | | | |
 
-### Techniques that are useful in this phase include:
- 
-- Pulling up examples for inspiration
-- Inviting concrete, written proposals
-- Clarifying selection criteria and evaluating proposals against them
-- Combining the best elements of multiple ideas to support more innovative, inclusive solutions
-- Deciding what ideas to pursue and which to keep on the back burner in case the team needs to adapt
-- Defining steps and milestones, planning the work flow, and assigning roles and responsibilities
+### Techniques to support convergence:
 
-While the big work of the initial stage of any project is getting to convergence on the overall work plan, you should expect that your team may go through the process of divergence and convergence many times as you dive into the work and uncover new challenges. But the shared understanding and social rapport that come from successfully struggling together early on will allow the group to more easily and rapidly develop and implement new solutions in subsequent meetings.
+Convergent thinking requires critical analysis of alternative ideas and active listening. Useful techniques in this phase include:
+
+- Define the decision clearly; frame the challenge while staying open to a range of possible solutions
+- Invite concrete, written proposals
+- Leave space for thinking and metabolism of ideas (reflection, movement, writing, or research time)
+- State your selection criteria and get clear about how you will evaluate proposals against them (see feasibility-impact matrix)
+- Assess levels of agreement (see Fist to Five)
+- Combine the best elements of multiple ideas to support more innovative, inclusive solutions
+- Before the final decision, narrow the pool of possible options to a manageable set (2-5)
+- Decide what ideas to pursue and which to keep on the back burner in case the team needs to adapt
+- Define next steps, assess capacity, and assign roles and responsibilities
+
+While the big work of the initial stage of any project is getting to convergence on the overall work plan, you should expect that your team will go through the process of divergence and convergence many times as you dive into the work and uncover new challenges. But the shared understanding and social rapport that come from successfully struggling together early on will allow the group to more easily and rapidly develop and implement new solutions in subsequent meetings.
 
 ## A Framework for Group Process Design
 
