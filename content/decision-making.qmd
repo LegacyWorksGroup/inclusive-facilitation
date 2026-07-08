@@ -197,7 +197,7 @@ Consider a consent decision making process to reach safe-to-try decisions with t
     - Consent - no one objects
     - Majority rules
     - Delegate to an individual or group
-- [ ] Check your biases - Have you checked your assumptions? Have you sought diverse opinions? Have you adequately considered the downside risks?
+- [ ] Check your [biases](https://thedecisionlab.com/biases-index) - Have you checked your assumptions? Have you sought diverse opinions? Have you adequately considered the downside risks?
 - [ ] Know your fallback plan if you can’t reach your decision threshold within your allotted timeframe
 
 ### DARCI
@@ -263,7 +263,7 @@ Share with the whole group
 | **Microstructure** | **Stage** | **Purpose** | **How It Works** | **Tips & Traps** |
 |:---|:---:|:------------|:--------------------|:---------------|
 | [Brainwriting](https://gamestorming.com/brainwriting/) or brainstorming | D | Surface and elaborate ideas | Brainstorm ideas in a google doc or virtual whiteboard (or on index cards or sticky notes in person); read and add to each other's ideas; discuss | Follow up with affinity mapping as you move into emergent thinking |
-| Turn and learn / chat waterfall | D | Avoid the primacy effect (the first idea getting the most attention and biasing what comes next) by having everyone write down their idea (or their understanding of a situation) and then post them simultaneously on the wall or in a chat |
+| Turn and learn / chat waterfall | D | Avoid the [primacy effect](https://thedecisionlab.com/biases/primacy-effect) (the first idea getting the most attention and biasing what comes next) by having everyone write down their idea (or their understanding of a situation) and then post them simultaneously on the wall or in a chat |
 | [Rotating Stations](http://www.liberatingstructures.com/11-shift-share/) | D | Spread good ideas and make informal connections | Set up stations with experts or innovators who can present information and engage discussion; group members circulate to learn, ask questions, or provide feedback | Keep the overall session short so that it's not too fatiguing for presenters who will have to repeat their spiel many times |
 | [Pre mortem](https://gamestorming.com/pre-mortem/) | DE | Share past learnings and assess risks early | At the start of a project, ask “What will go wrong?” or even “How will this end in disaster?” | Compile and rank the potential risks. Use the pre mortem as a jumping off point for further design discussions. |
 | [User Experience Fishbowl](http://www.liberatingstructures.com/18-users-experience-fishbowl/) (a riff on panel discussion) | DE | Draw out and contrast different perspectives from experts or interested parties  | Experts with direct experience of the challenge at hand are invited to engage each other in conversation at the center of a circle; the rest of the group are audience to their conversation; audience and facilitator can suggest things for them to discuss | Avoid falling back on traditional formats where panelists talk to the audience rather than each other - the power of the fishbowl is the deep way in which the experts can engage each other |
@@ -306,6 +306,7 @@ Share with the whole group
 - Lipmanowicz & McCandless. The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation. Liberating Structures Press. 2014.
 - Kaner, S. Facilitator’s Guide to Participatory Decision-Making (Revised). 2014.
 - Kantor, D. Reading the room: Group dynamics for coaches and leaders. John Wiley & Sons. 2012.
+- Kahneman, D. Thinking, Fast and Slow. Farrar, Straus and Giroux, 2011.
 - Gray, D. et al., Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers. O’Reilly Media. 2010.
 -  Whitney, D. & A. Trosten-Bloom. The Power of Appreciative Inquiry: A Practical Guide to Positive Change. 2nd edition. Berrett-Koehler Publishers. 2010.
 - Bohm, D. On Dialogue. Routledge Classics. 2004.
@@ -317,6 +318,7 @@ Share with the whole group
 
 ### Websites
 
+- [The Decision Lab: Biases](https://thedecisionlab.com/biases-index)
 - [Liberating Structures: Including and Unleashing Everyone](https://www.liberatingstructures.com/)
 - [Gamestorming](https://gamestorming.com/)
 - Kappel, Carrie. [Collaboration: From groan zone to growth zone. Integration and Implementation Insights.](https://i2insights.org/2019/05/28/collaboration-groan-zone/). **2019**.
