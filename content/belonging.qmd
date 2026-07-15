@@ -207,7 +207,7 @@ See the table below and [this document](https://github.com/UKHomeOffice/posters/
 | Knowledge & Training | - New participants, especially those from marginalized groups may experience knowledge barriers <br> - Challenges understanding technical content <br> - Power imbalance between "experts" and others | - Robust onboarding <br> - Simple, de-jargoned language <br> - Normalize asking questions <br> - Center other ways of knowing, including lived experience, Indigenous knowledge, and practitioner knowledge <br> - Create opportunities for everyone to learn from each other |
 
 ## Power Dynamics
-Power dynamics – the ways in which power works in a setting – can either derail a process and negatively impact relationships for years, or produce more shared power and capacity to get things done. The outcome depends on how well we plan (including what happens within and outside of meetings and how well we attend to power dynamics and facilitate in the moment.
+Power dynamics – the ways in which power works in a setting – can either derail a process and negatively impact relationships for years, or produce more shared power and capacity to get things done. The outcome depends on how well we plan (including what happens within and outside of meetings and how well we attend to power dynamics and facilitate in the moment).
 
 Power — the capacity to get things done — is neither positive nor negative in and of itself. There are healthy exercises of power that focus on growing power to achieve positive outcomes by building “power with” others. Unhealthy power is focused on establishing “power over” others or concentrating power in a few.
 
@@ -223,6 +223,7 @@ In any group, the individuals vary in their level of power. Their overall power 
 
 Individual power may be context dependent. I have a lot more power when I am in a setting that preferences my particular expertise than if I am in a setting I know nothing about. Individuals can also act to alter their power by making "moves" that either increase or decrease their power within a group. As facilitators, we need to pay attention to those moves in order to manage the group dynamics well.
 
+:::{.callout-note icon="false"}
 #### Activity: Power Lens
 
 **Part 1** - Power Ranking
@@ -233,7 +234,7 @@ Individual power may be context dependent. I have a lot more power when I am in 
 - In each column, write the names of the group members in order of those you think have the most power to those you think have the least based on the column category. No ties! Add notes explaining why you ranked folks where you did. Think about how the rankings in the different categories contribute to your overall ranking.
 - On the second page, list the different power moves you noticed and their impacts.
 
-**Part 1** - Discussion
+**Part 2** - Discussion
 
 - Let's compare our results
 - Could you imagine applying this to a group you are part of?
