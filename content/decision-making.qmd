@@ -253,22 +253,6 @@ Between those two points - your initial state and your target state - you can us
 
 Those diamonds can vary in scale from mini-exercises that only take a few minutes to multi-day or longer processes. Once you start to recognize it, you'll see the diamond model everywhere (or miss it when it's lacking!). 
 
-::: {.callout-note icon="false"}
-### Small Group Exercise #1 - TBD
-
-Purpose: {{< fa person-digging >}}
-
-**Part 1 - Individual Reflection**
-
-
-**Part 2 - Breakout Group **
-
-
-**Part 3 - Report Out**
-
-Share with the whole group
-
-:::
 
 ## Tools to Support the Thinking You Need 
 
@@ -296,17 +280,6 @@ Share with the whole group
 | [1,2,4,all](https://www.liberatingstructures.com/1-1-2-4-all/) | DEC | Engage everyone in generating questions, ideas, and suggestions | Individual reflection; Pair share; Two pairs combine and share as a group of 4; Small groups share highlights with whole group | Emphasize novel ideas and distinctions for divergence; common themes and emerging insights for emergence and convergence |
 | Round robin / go around | DEC | Hear from everyone; get starting positions on the table | Everyone answers the same prompt. Alternatives to going in order: each speaker calls on someone else after they have shared; popcorn-style - people share in the order that they feel moved to speak | Do not allow discussion until everyone has responded to the initial prompt |
 
-
-::: {.callout-note icon="false"}
-#### Activity: Small Group Exercise #2 - TBD {{< fa person-digging >}}
-
-**Part 1 - Breakout Group**
-
-
-**Part 2 - Report Out**
-
-
-:::
 
 ## Additional Resources
 
