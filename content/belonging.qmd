@@ -24,8 +24,8 @@ _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-mag
 
 After completing this module you will be able to: 
 
-- <u>Design effective</u>, inclusive gatherings to tap the inherent potential of diverse groups collaborating across differences
-- <u>Apply</u> methods to ensure equitable access to participation and foster trust and belonging in virtual and in person facilitated sessions
+- Design effective, inclusive gatherings to tap the inherent potential of diverse groups collaborating across differences
+- Apply methods to ensure equitable access to participation and foster trust and belonging in virtual and in person facilitated sessions
 
 :::
 

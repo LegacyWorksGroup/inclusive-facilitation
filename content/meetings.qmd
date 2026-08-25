@@ -22,9 +22,9 @@ _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-mag
 
 After completing this module you will be able to: 
 
-- <u>Describe</u> benefits of facilitating full, thoughtful, engaged participation in group settings
-- <u>Design</u> effective, inclusive gatherings to tap the inherent potential of diverse groups and reach shared goals
-- <u>Analyze</u> group interactions and identify ways to unlock stuck dynamics and foster greater participation and collaboration
+- Describe benefits of facilitating full, thoughtful, engaged participation in group settings
+- Design effective, inclusive gatherings to tap the inherent potential of diverse groups and reach shared goals
+- Analyze group interactions and identify ways to unlock stuck dynamics and foster greater participation and collaboration
 
 :::
 
