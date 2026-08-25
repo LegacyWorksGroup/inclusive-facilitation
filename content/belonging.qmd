@@ -29,6 +29,10 @@ After completing this module you will be able to:
 
 :::
 
+<div style="display: flex; justify-content: center;"> 
+<iframe width="560" height="380" src="https://docs.google.com/presentation/d/16JeKjG6DGaxe9n45FdvKyzL-fCJ4YIOEOgG5JiR8Nms/preview?" frameborder="0" allowfullscreen></iframe>
+</div> 
+
 <p align="center">
 <img src="images/belonging_Wenjia-Tang.jpg" alt="Infographic by Wenjia Tang showing multiple vignettes of people connecting across differences - racial, ethnic, economic, social, sectoral, age, physical ability - surrounded by plants, animals, and multi-cultural iconography. The words Connection, Agency & Co-Creation, Inclusion, Recognition, and Belonging without Othering appear. A definition of belonging from the Othering & Belonging Institute is given in the bottom left: Belonging is having the right to fully participate in and co-create the world you live in. Belonging means your story is fully seen and valued. Belonging means having the right to make demands on systems and structures. Belonging is being respected as an equal human being with full dignity." width="100%"/> 
 <figcaption> **Image by Wenjia Tang, Othering & Belonging Institute**</figcaption>

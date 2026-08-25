@@ -27,6 +27,10 @@ _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-mag
 
 :::
 
+<div style="display: flex; justify-content: center;"> 
+<iframe width="560" height="380" src="https://docs.google.com/presentation/d/193YZkCdxhfTRytLAUbXUQT9566Z_Malouyqz5s2jCfc/preview?" frameborder="0" allowfullscreen></iframe>
+</div> 
+
 ## Participatory Decision Making
 Every facilitated process will reach a point where the group needs to make a decision, even if it's just whether to break for lunch. This module aims to equip you with the tools to support the group in making those decisions skillfully. We'll also learn to recognize when a group decision making process is worth the time and effort and when the group would be better served by a single decisionmaker making the call.
 
