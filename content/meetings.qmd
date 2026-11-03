@@ -2,10 +2,12 @@
 title: "Designing and Facilitating Engaging and Effective Meetings"
 ---
 
+<meta name="robots" content="noindex, nofollow">
+
 This session will offer best practices for in person and virtual meeting design. We will demonstrate a set of “[Liberating Structures](https://www.liberatingstructures.com/ls/)” for engaging, effective group meetings. And we will practice using David Kantor’s Four-Player Model as a way to “read the room” and diagnose and shift group dynamics.
 
-:::{.callout-tip icon="false" collapse="false"}
-## Core Competencies Strengthened
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 

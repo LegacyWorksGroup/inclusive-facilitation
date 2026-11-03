@@ -2,10 +2,12 @@
 title: "Facilitation Practices to Support Access, Inclusion, and Belonging"
 ---
 
+<meta name="robots" content="noindex, nofollow">
+
 This session will explore the benefits of inclusive facilitation and develop participants' comfort and skill in facilitating virtual and in person sessions that engage people across differences. We will identify common barriers to equitable access to participation and introduce specific design for accessibility principles, tools, and techniques to overcome those barriers. We will demonstrate ways to build connection and trust among participants.
 
-:::{.callout-tip icon="false" collapse="false"}
-## Core Competencies Strengthened
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 
